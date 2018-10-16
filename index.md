@@ -8,6 +8,15 @@ Von der Bilddigitalisierung über Text-, Bild- und Layouterkennung und Metadaten
 ## Aktuelles
 Lorem ipsum dolor sit amet
 
+## Kontakt/Convenor
+Nanette Rißler-Pipka    
+Karlsruhe Institute of Technology (KIT)    
+Steinbuch Centre for Computing    
+Herrmann-von-Helmholtz-Platz 1    
+76344 Eggenstein-Leopoldshafen    
+Tel. +49 721 608 28606    
+E-mail: nanette.rissler-pipka@kit.edu    
+
 ## Mitglieder
 Lorem ipsum dolor sit amet
 
