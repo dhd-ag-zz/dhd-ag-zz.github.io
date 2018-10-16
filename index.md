@@ -5,10 +5,10 @@ DH-Projekte, Bibliotheken, Archive und Forschende, die mit Zeitungs- und Zeitsch
 
 Von der Bilddigitalisierung über Text-, Bild- und Layouterkennung und Metadatenmodelle bis zu konkreten geisteswissenschaftlichen Forschungsfragen stellt die wissenschaftliche Beschäftigung mit Zeitungen und Zeitschriften im Bereich der DH Herausforderungen, die gemeinsam betrachtet werden sollten. Auf diese Weise werden Insellösungen, die eine Nachnutzung der Digitalisate, Metadaten und Forschungsresultate erschweren, vermieden und Kooperationen vereinfacht.
 
-## Aktuelles
-Lorem ipsum dolor sit amet
+### Aktuelles
+* Ein erstes Arbeitstreffen wurde für die [DHd2019](https://dhd2019.org/) in Mainz/Frankfurt beantragt.
 
-## Kontakt/Convenor
+### Kontakt/Convenor
 Nanette Rißler-Pipka    
 Karlsruhe Institute of Technology (KIT)    
 Steinbuch Centre for Computing    
@@ -17,11 +17,11 @@ Herrmann-von-Helmholtz-Platz 1
 Tel. +49 721 608 28606    
 E-mail: nanette.rissler-pipka@kit.edu    
 
-## Mitglieder
+### Mitglieder
 Lorem ipsum dolor sit amet
 
-## Internationale Initiativen und Projekte
+### Internationale Initiativen und Projekte
 Lorem ipsum dolor sit amet
 
-## Standards und Best-Practices
+### Standards und Best-Practices
 Lorem ipsum dolor sit amet
