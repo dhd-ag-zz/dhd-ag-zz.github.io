@@ -7,21 +7,43 @@ Von der Bilddigitalisierung über Text-, Bild- und Layouterkennung und Metadaten
 
 ### Aktuelles
 * Ein erstes Arbeitstreffen wurde für die [DHd2019](https://dhd2019.org/) in Mainz/Frankfurt beantragt.
+* Ein Panel *Zeitungen und Zeitschriften als multimodale, digitale Forschungsobjekte: Theorien und Methoden* wurde bei der [DHd2019](https://dhd2019.org/) eingereicht
 
 ### Kontakt/Convenor
-Nanette Rißler-Pipka    
+**Nanette Rißler-Pipka**    
 Karlsruhe Institute of Technology (KIT)    
 Steinbuch Centre for Computing    
 Herrmann-von-Helmholtz-Platz 1    
 76344 Eggenstein-Leopoldshafen    
 Tel. +49 721 608 28606    
-E-mail: nanette.rissler-pipka@kit.edu    
+E-mail: nanette.rissler-pipka@kit.edu   
+
+Stellvertretender Convenor:
+
+**Dario Kampkasar**
+
 
 ### Mitglieder
 Lorem ipsum dolor sit amet
 
-### Internationale Initiativen und Projekte
-Lorem ipsum dolor sit amet
+### Initiativen und Projekte
+
+**AT**
+* [Wienerisches Diarium Digital](https://www.oeaw.ac.at/acdh/projects/wiennerisches-diarium-digital/)
+
+**CH**
+* [impresso](http://impresso-project.ch/)
+
+**DE**
+* [Zeitschriftendatenbank (ZDB)](http://zdb-katalog.de/)
+
+**EU** 
+* [Europeana Newspapers](http://europeana-newspapers.eu/)
+* [NewsEye](http://newseye.eu/)
+
+**International**
+* [Oceanic Exchanges](http://oceanicexchanges.org/)
+* [TEI SIG Newspapers and Periodicals](http://www.tei-c.org/Activities/SIG/)
 
 ### Standards und Best-Practices
 Lorem ipsum dolor sit amet
