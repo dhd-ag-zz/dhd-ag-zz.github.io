@@ -23,8 +23,7 @@ Stellvertretender Convenor:
 **Dario Kampkasar**
 
 
-### Mitglieder
-Lorem ipsum dolor sit amet
+### [Mitglieder](https://dhd-ag-zz.github.io/mitglieder)
 
 ### [Initiativen und Projekte](https://dhd-ag-zz.github.io/projekte)
 
