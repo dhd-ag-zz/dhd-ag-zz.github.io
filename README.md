@@ -1,1 +1,1 @@
-# dhd-ag-zz.github.io
+Webseite der [DHd AG Zeitungen & Zeitschriften](https://dhd-ag-zz.github.io)
