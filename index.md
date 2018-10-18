@@ -16,11 +16,17 @@ Steinbuch Centre for Computing
 Herrmann-von-Helmholtz-Platz 1    
 76344 Eggenstein-Leopoldshafen    
 Tel. +49 721 608 28606    
-E-mail: nanette.rissler-pipka@kit.edu   
+eMail: nanette.rissler-pipka@kit.edu   
 
 Stellvertretender Convenor:
 
-**Dario Kampkasar**
+**Dario Kampkaspar**
+Österreichische Akedemie der Wissenschaften, Autrian Centre for Digital Humanities (ACDH/ÖAW)
+Sonnenfelsgasse 19
+1010 Wien
+Österreich
+Tel. +43 1 51581 2227
+eMail: dario.kampkaspar@oeaw.ac.at
 
 
 ### [Mitglieder](https://dhd-ag-zz.github.io/mitglieder)
