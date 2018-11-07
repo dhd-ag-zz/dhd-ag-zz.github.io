@@ -21,7 +21,7 @@ eMail: nanette.rissler-pipka@kit.edu
 Stellvertretender Convenor:
 
 **Dario Kampkaspar**  
-Österreichische Akedemie der Wissenschaften, Austrian Centre for Digital Humanities (ACDH/ÖAW)  
+Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities (ACDH/ÖAW)  
 Sonnenfelsgasse 19   
 1010 Wien   
 Österreich  
