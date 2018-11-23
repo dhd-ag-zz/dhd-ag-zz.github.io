@@ -16,7 +16,6 @@
 * [NewsEye](http://newseye.eu/)
 
 **International**
-* [Blue Mountain](http://bluemountain.princeton.edu/index.html)  
 * [Digitization of Philippine Rare Perodicals and Training in DH](https://www.uantwerpen.be/en/research-groups/digitalhumanities/about/projects/vlir-uos/)
 * [IFLA News Media Section](https://www.ifla.org/news-media)
 * [IIIF Newspaper Community Group](https://iiif.io/community/groups/newspapers/)
