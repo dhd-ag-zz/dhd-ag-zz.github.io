@@ -4,7 +4,9 @@
 
 * [ANNO - AustriaN Newspapers Online](http://anno.onb.ac.at/)
 * [Europeana Newspapers](http://europeana-newspapers.eu/)
-* [Zeitschriftendatenbank (ZDB)](http://zdb-katalog.de/)
+* [Zeitschriftendatenbank (ZDB)](http://zdb-katalog.de/) 
+* [e-periodica Schweizer Zeitschriften online](https://www.e-periodica.ch/)
+
 
 ### Zeitschriften
 
