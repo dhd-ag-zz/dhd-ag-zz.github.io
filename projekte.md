@@ -7,6 +7,7 @@
 * [impresso](http://impresso-project.ch/)
 
 **DE**
+* [DDB Zeitungsportal](https://pro.deutsche-digitale-bibliothek.de/ddb-zeitungsportal)
 * [Forschergruppe Journalliteratur](https://journalliteratur.blogs.ruhr-uni-bochum.de/)
 * [Literatur im Zeitalter der Illustrierten](http://gepris.dfg.de/gepris/projekt/282457319)
 * [Revistas Culturales](http://www.revistas-culturales.de/)
