@@ -6,7 +6,7 @@ DH-Projekte, Bibliotheken, Archive und Forschende, die mit Zeitungs- und Zeitsch
 Von der Bilddigitalisierung über Text-, Bild- und Layouterkennung und Metadatenmodelle bis zu konkreten geisteswissenschaftlichen Forschungsfragen stellt die wissenschaftliche Beschäftigung mit Zeitungen und Zeitschriften im Bereich der DH Herausforderungen, die gemeinsam betrachtet werden sollten. Auf diese Weise werden Insellösungen, die eine Nachnutzung der Digitalisate, Metadaten und Forschungsresultate erschweren, vermieden und Kooperationen vereinfacht.
 
 ### Aktuelles
-* 25.-29.03.2019: Ein erstes Arbeitstreffen wird während der [DHd2019](https://dhd2019.org/) in Mainz/Frankfurt stattfinden. Mittwoch, 27.03.2019 von [12:30-14:00 im Seminarhaus](https://dhd2019.org/programm/mi) auf dem Campus Westend der Goethe Universität Frankfurt am Main.
+* 25.-29.03.2019: Ein erstes Arbeitstreffen wird während der [DHd2019](https://dhd2019.org/) in Mainz/Frankfurt stattfinden: am Mittwoch, 27.03.2019 von [12:30-14:00 im Seminarhaus](https://dhd2019.org/programm/mi) auf dem Campus Westend der Goethe Universität Frankfurt am Main.
 * 25.-29.03.2019: Das Panel *Zeitungen und Zeitschriften als multimodale, digitale Forschungsobjekte: Theorien und Methoden* wurde für die [DHd2019](https://dhd2019.org/) angenommen. Das Panel findet am 27.03.2019 von [11:00-12:30 im Raum HZ3](https://dhd2019.org/programm/mi) auf dem Campus Westend der Goethe Universität Frankfurt am Main statt.
 
 ### Kontakt/Convenor
