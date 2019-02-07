@@ -6,6 +6,7 @@
 * [Europeana Newspapers](http://europeana-newspapers.eu/)
 * [Zeitschriftendatenbank (ZDB)](http://zdb-katalog.de/) 
 * [e-periodica Schweizer Zeitschriften online](https://www.e-periodica.ch/)
+* [Zeitungsportal NRW](https://zeitpunkt.nrw)
 
 
 ### Zeitschriften
