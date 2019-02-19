@@ -13,6 +13,7 @@
 * [Revistas Culturales](http://www.revistas-culturales.de/)
 
 **EU** 
+* [Europeana Newspapers](http://europeana-newspapers.eu/)
 * [European Society for Periodical Research](http://www.espr-it.eu/)
 * [NewsEye](http://newseye.eu/)
 
