@@ -3,6 +3,7 @@
 ### Zeitungen
 
 * [ANNO - AustriaN Newspapers Online](http://anno.onb.ac.at/)
+* [Deutsches Textarchiv: Zeitungen](http://www.deutschestextarchiv.de/list/browse?genre=Zeitung)
 * [Europeana Newspapers](http://europeana-newspapers.eu/)
 * [Zeitschriftendatenbank (ZDB)](http://zdb-katalog.de/) 
 * [e-periodica Schweizer Zeitschriften online](https://www.e-periodica.ch/)
