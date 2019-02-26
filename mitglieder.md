@@ -1,1 +1,15 @@
 ## Mitglieder
+
+*Estelle Bunout* (impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH))    
+*Hanno Ehrlicher* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
+*Urte Helduser* (Forschungsprojekt, Universität Köln)    
+*Teresa Herzgsell* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
+*Dario Kampkaspar* (co-convenor, Wienerisches Diarium, Austrian Academy of Science, Wien)    
+*Jana Keck* (Oceanic Exchanges, Universität Stuttgart)    
+*Jörg Lehmann* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
+*Hans-Jörg Lieder* (Europeana Newspapers, DDB Zeitungsportal, Digitalisierungsprojeke; Staatsbibliothek zu Berlin)    
+*Anne Lorenz* (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)    
+*Clemens Neudecker* (Europeana Newspapers, Staatsbibliothek zu Berlin)    
+*Claudia Resch* (Wienerisches Diarium, Austrian Academy of Science, Wien)    
+*Nanette Rißler-Pipka* (convenor, Karlsruher Institut für Technologie, Karlsruhe)    
+*Marjam Trautmann* (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)    
