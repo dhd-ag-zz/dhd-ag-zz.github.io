@@ -6,6 +6,7 @@
 *Teresa Herzgsell* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
 *Dario Kampkaspar* (co-convenor, Wienerisches Diarium, Austrian Academy of Science, Wien)    
 *Jana Keck* (Oceanic Exchanges, Universität Stuttgart)    
+*Stefanie Läpke* (Zeitungsportal NRW, Universitäts- und Landesbibliothek Bonn)    
 *Jörg Lehmann* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
 *Hans-Jörg Lieder* (Europeana Newspapers, DDB Zeitungsportal, Digitalisierungsprojeke; Staatsbibliothek zu Berlin)    
 *Anne Lorenz* (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)    
