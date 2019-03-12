@@ -12,6 +12,7 @@
 *Anne Lorenz* (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)    
 *Julia Menzel* (Universität Bayreuth, Neuere deutsche Literaturwissenschaft)    
 *Clemens Neudecker* (Europeana Newspapers, Staatsbibliothek zu Berlin)    
+*Madleen Podewski* (Freie Universität Berlin)    
 *Claudia Resch* (Wienerisches Diarium, Austrian Academy of Science, Wien)    
 *Nanette Rißler-Pipka* (convenor, Karlsruher Institut für Technologie, Karlsruhe)    
 *Marjam Trautmann* (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)    
