@@ -28,7 +28,7 @@ Sonnenfelsgasse 19
 Tel. +43 1 51581 2227  
 eMail: dario.kampkaspar@oeaw.ac.at   
 
-**Mailingliste hier abonnieren**: http://lists.lists.digitalhumanities.org/mailman/listinfo/dhd-ag-zz
+**Mailingliste hier abonnieren**: [http://lists.lists.digitalhumanities.org/mailman/listinfo/dhd-ag-zz](http://lists.lists.digitalhumanities.org/mailman/listinfo/dhd-ag-zz) 
 
 
 ### [Mitglieder](https://dhd-ag-zz.github.io/mitglieder)
