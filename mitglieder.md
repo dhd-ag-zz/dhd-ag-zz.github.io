@@ -2,9 +2,9 @@
 
 *Estelle Bunout* (impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH)
 
-*Hanno Ehrlicher* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
+*Hanno Ehrlicher* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)  
 
-*Urte Helduser* (Forschungsprojekt, Universität Köln)    
+*Urte Helduser* (Forschungsprojekt, Universität Köln)
 
 *Teresa Herzgsell* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
 
