@@ -1,6 +1,6 @@
 ## Mitglieder
 
-*Estelle Bunout* (impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH))    
+*Estelle Bunout* (impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH)
 
 *Hanno Ehrlicher* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
 
