@@ -1,5 +1,7 @@
 ## Mitglieder
 
+*Matthias Arnold* (Heidelberg research Architecture, Cluster of Excellence "Asia and Europe", Universität Heidelberg)   
+
 *Estelle Bunout* (impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH)
 
 *Eric Decker* (Departement Geschichte, Universität Basel)   
