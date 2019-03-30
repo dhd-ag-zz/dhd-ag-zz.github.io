@@ -2,9 +2,13 @@
 
 *Estelle Bunout* (impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH)
 
+*Eric Decker* (Departement Geschichte, Universität Basel)   
+
 *Hanno Ehrlicher* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)  
 
-*Urte Helduser* (Forschungsprojekt, Universität Köln)
+*Urte Helduser* (Forschungsprojekt, Universität Köln)  
+
+*Jürgen Hermes* (Institut für Digital Humanities, Universität Köln)
 
 *Teresa Herzgsell* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
 
@@ -28,8 +32,12 @@
 
 *Madleen Podewski* (DFG-Projekt: Literatur im Zeitalter der Illustrierten: Stationen komplexer Text-Bild-Beziehungen im 19. Jahrhundert, Freie Universität Berlin)    
 
+*Anna Reimann* (Departement Geschichte, Universität Basel)   
+
 *Claudia Resch* (Wienerisches Diarium, Austrian Academy of Science, Wien)    
 
 *Nanette Rißler-Pipka* (convenor, Karlsruher Institut für Technologie, Karlsruhe)    
+
+*Ina Cathrin Serif* (Departement Geschichte, Universität Basel)   
 
 *Marjam Trautmann* (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)    
