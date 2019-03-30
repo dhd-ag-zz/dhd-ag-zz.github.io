@@ -8,6 +8,7 @@
 
 **DE**
 * [DDB Zeitungsportal](https://pro.deutsche-digitale-bibliothek.de/ddb-zeitungsportal)
+* [Der Sturm](https://www.adwmainz.de/projekte/der-sturm-digitale-quellenedition-zur-geschichte-der-internationalen-avantgarde/informationen.html)
 * [Forschergruppe Journalliteratur](https://journalliteratur.blogs.ruhr-uni-bochum.de/)
 * [Literatur im Zeitalter der Illustrierten](http://gepris.dfg.de/gepris/projekt/282457319)
 * [Revistas Culturales](http://www.revistas-culturales.de/)
