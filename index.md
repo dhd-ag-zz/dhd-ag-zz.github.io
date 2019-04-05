@@ -7,7 +7,7 @@ Von der Bilddigitalisierung über Text-, Bild- und Layouterkennung und Metadaten
 
 ### Aktuelles
 * 25.-29.03.2019: Ein erstes Arbeitstreffen wird während der [DHd2019](https://dhd2019.org/) in Mainz/Frankfurt stattfinden: am Mittwoch, 27.03.2019 von [12:30-14:00 im Seminarhaus, Raum 0.109](https://dhd2019.org/programm/mi) auf dem Campus Westend der Goethe Universität Frankfurt am Main.
-* 25.-29.03.2019: Das Panel *Zeitungen und Zeitschriften als multimodale, digitale Forschungsobjekte: Theorien und Methoden* wurde für die [DHd2019](https://dhd2019.org/) angenommen. Das Panel fand am 27.03.2019 von [11:00-12:30 im Raum HZ3](https://dhd2019.org/programm/mi) auf dem Campus Westend der Goethe Universität Frankfurt am Main statt. Die Folien zum Panel sind [hier](https://docs.google.com/presentation/d/1YvDdR3vX_rMCXwaChrVF36xvXBFh-glzlkXhn2hqzUk/edit) veröffentlicht.
+* 25.-29.03.2019: Das Panel *[Zeitungen und Zeitschriften als multimodale, digitale Forschungsobjekte: Theorien und Methoden](https://dhd2019.org/programm/mi/1100-1230/panel-154/)* wurde für die [DHd2019](https://dhd2019.org/) angenommen. Das Panel fand am 27.03.2019 von [11:00-12:30 im Raum HZ3](https://dhd2019.org/programm/mi) auf dem Campus Westend der Goethe Universität Frankfurt am Main statt. Die Folien zum Panel sind [hier](https://docs.google.com/presentation/d/1YvDdR3vX_rMCXwaChrVF36xvXBFh-glzlkXhn2hqzUk/edit) veröffentlicht.
 
 ### Kontakt/Convenor
 **Nanette Rißler-Pipka**    
