@@ -24,4 +24,5 @@
 * [IIIF Newspaper Community Group](https://iiif.io/community/groups/newspapers/)
 * [International Coalition On Newspapers](http://icon.crl.edu/)
 * [Oceanic Exchanges](http://oceanicexchanges.org/)
-* [TEI SIG Newspapers and Periodicals](http://www.tei-c.org/Activities/SIG/)
+* [TEI SIG Newspapers and Periodicals](http://www.tei-c.org/Activities/SIG/)  
+* [The Viral Texts Project](https://viraltexts.org/)
