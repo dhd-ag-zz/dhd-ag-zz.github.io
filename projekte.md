@@ -4,14 +4,16 @@
 * [Wienerisches Diarium Digital](https://www.oeaw.ac.at/acdh/projects/wiennerisches-diarium-digital/)
 
 **CH**
-* [impresso](http://impresso-project.ch/)
+* [impresso](http://impresso-project.ch/)  
+* [Märkte auf Papier. Informationen, Daten und Nachrichten im Basler "Avisblatt", 1729-1845](https://forschdb2.unibas.ch/inf2/rm_projects/object_view.php?r=4486067)  
 
 **DE**
 * [DDB Zeitungsportal](https://pro.deutsche-digitale-bibliothek.de/ddb-zeitungsportal)
 * [Der Sturm](https://www.adwmainz.de/projekte/der-sturm-digitale-quellenedition-zur-geschichte-der-internationalen-avantgarde/informationen.html)
 * [Forschergruppe Journalliteratur](https://journalliteratur.blogs.ruhr-uni-bochum.de/)
 * [Literatur im Zeitalter der Illustrierten](http://gepris.dfg.de/gepris/projekt/282457319)
-* [Revistas Culturales](http://www.revistas-culturales.de/)
+* [Revistas Culturales](http://www.revistas-culturales.de/)  
+* [Geschichte(n) für viele: Historische Lebenswelten in Familien-, Frauen- und Kinderzeitschriften des viktorianischen England](http://portal.uni-freiburg.de/historische-lebenswelten/projekte/BK_DL)  
 
 **EU** 
 * [Europeana Newspapers](http://europeana-newspapers.eu/)
