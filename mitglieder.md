@@ -18,6 +18,8 @@
 
 *Jana Keck* (Oceanic Exchanges, Universität Stuttgart)    
 
+*Barbara Korte* (Englisches Seminar, Albert-Ludwigs-Universität Freiburg)  
+
 *Lisa Landes* (Deutsche Digitale Bibliothek, Zeitungsportal, Deutsche Nationalbibliothek, Frankfurt a.M.)    
 
 *Stefanie Läpke* (Zeitungsportal NRW, Universitäts- und Landesbibliothek Bonn)    
