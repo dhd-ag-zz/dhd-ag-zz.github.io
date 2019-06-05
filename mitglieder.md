@@ -6,6 +6,8 @@
 
 *Eric Decker* (Departement Geschichte, Universität Basel)   
 
+*Patrick Dinger* (Deutsche Digitale Bibliothek, Zeitungsportal, Deutsche Nationalbibliothek, Frankfurt a.M.)   
+
 *Hanno Ehrlicher* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)  
 
 *Urte Helduser* (Forschungsprojekt, Universität Köln)  
