@@ -39,4 +39,4 @@ eMail: dario.kampkaspar@oeaw.ac.at
 
 ### [Daten](https://dhd-ag-zz.github.io/daten)
 
-### [Vergangene Ankündigungen] (https://dhd-ag-zz.github.io/archiv)
+### [Vergangene Ankündigungen](https://dhd-ag-zz.github.io/archiv)
