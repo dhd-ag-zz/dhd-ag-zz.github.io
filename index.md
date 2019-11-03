@@ -11,12 +11,11 @@ Von der Bilddigitalisierung über Text-, Bild- und Layouterkennung und Metadaten
 
 ### Kontakt/Convenor
 **Nanette Rißler-Pipka**    
-Karlsruhe Institute of Technology (KIT)    
-Steinbuch Centre for Computing    
-Herrmann-von-Helmholtz-Platz 1    
-76344 Eggenstein-Leopoldshafen    
-Tel. +49 721 608 28606    
-eMail: nanette.rissler-pipka@kit.edu   
+Georg-August-Universität Göttingen  
+Niedersächsische Staats- und Universitätsbibliothek Göttingen  
+Papendiek 14   
+D-37073 Göttingen     
+eMail: nanette.rissler-pipka@sub.uni-goettingen.de   
 
 Stellvertretender Convenor:
 
