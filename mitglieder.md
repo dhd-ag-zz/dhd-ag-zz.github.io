@@ -42,7 +42,7 @@
 
 *Claudia Resch* (Wienerisches Diarium, Austrian Academy of Science, Wien)    
 
-*Nanette Rißler-Pipka* (convenor, Karlsruher Institut für Technologie, Karlsruhe)    
+*Nanette Rißler-Pipka* (convenor, Staats- und Universitätsbibliothek Göttingen)    
 
 *Ina Cathrin Serif* (Departement Geschichte, Universität Basel)   
 
