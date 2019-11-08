@@ -15,7 +15,7 @@ Georg-August-Universität Göttingen
 Niedersächsische Staats- und Universitätsbibliothek Göttingen  
 Papendiek 14   
 D-37073 Göttingen     
-eMail: nanette.rissler-pipka@sub.uni-goettingen.de   
+eMail: rissler-pipka@sub.uni-goettingen.de   
 
 Stellvertretender Convenor:
 
