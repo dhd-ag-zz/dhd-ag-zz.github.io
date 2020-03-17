@@ -46,4 +46,7 @@
 
 *Ina Cathrin Serif* (Departement Geschichte, Universität Basel)   
 
-*Marjam Trautmann* (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)    
+*Marjam Trautmann* (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)
+
+*Lino Wehrheim* (Universität Regensburg, Projekt: More than a Feeling)
+
