@@ -12,6 +12,7 @@
 * [Der Sturm](https://www.adwmainz.de/projekte/der-sturm-digitale-quellenedition-zur-geschichte-der-internationalen-avantgarde/informationen.html)
 * [Forschergruppe Journalliteratur](https://journalliteratur.blogs.ruhr-uni-bochum.de/)
 * [Literatur im Zeitalter der Illustrierten](http://gepris.dfg.de/gepris/projekt/282457319)
+* [More than a Feeling](http://media-sentiment.uni-leipzig.de/)
 * [Revistas Culturales](http://www.revistas-culturales.de/)  
 * [Geschichte(n) für viele: Historische Lebenswelten in Familien-, Frauen- und Kinderzeitschriften des viktorianischen England](http://portal.uni-freiburg.de/historische-lebenswelten/projekte/BK_DL)  
 
