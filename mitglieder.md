@@ -44,6 +44,8 @@
 
 *Nanette Rißler-Pipka* (convenor, Staats- und Universitätsbibliothek Göttingen)    
 
+*Jana Madleen Schütte* (Badische Landesbibliothek, Karlsruhe)  
+
 *Ina Cathrin Serif* (Departement Geschichte, Universität Basel)   
 
 *Marjam Trautmann* (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)
