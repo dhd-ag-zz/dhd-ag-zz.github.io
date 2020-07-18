@@ -10,13 +10,15 @@
 
 *Hanno Ehrlicher* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)  
 
+*Mark Hall* (The Open University: Milton Keynes, GB)
+
 *Urte Helduser* (Forschungsprojekt, Universität Köln)  
 
 *Jürgen Hermes* (Institut für Digital Humanities, Universität Köln)
 
 *Teresa Herzgsell* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
 
-*Dario Kampkaspar* (co-convenor, Wienerisches Diarium, Austrian Academy of Science, Wien)    
+*Dario Kampkaspar* (Wienerisches Diarium, Austrian Academy of Science, Wien)    
 
 *Jana Keck* (Oceanic Exchanges, Universität Stuttgart)    
 
@@ -29,6 +31,8 @@
 *Jörg Lehmann* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
 
 *Hans-Jörg Lieder* (Europeana Newspapers, DDB Zeitungsportal, Digitalisierungsprojeke; Staatsbibliothek zu Berlin)    
+
+*Harald Lordick* (Salomon Ludwig Steinheim Institut für Deutsch-Jüdische Geschichte, Essen)  
 
 *Anne Lorenz* (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)    
 
@@ -44,6 +48,8 @@
 
 *Nanette Rißler-Pipka* (convenor, Staats- und Universitätsbibliothek Göttingen)    
 
+*Torsten Roeder* (co-convenor, Leopoldina, Halle)  
+
 *Jana Madleen Schütte* (Badische Landesbibliothek, Karlsruhe)  
 
 *Ina Cathrin Serif* (Departement Geschichte, Universität Basel)   
@@ -52,3 +58,4 @@
 
 *Lino Wehrheim* (Universität Regensburg, Projekt: More than a Feeling)
 
+*Angela Vorndran* (Deutsche Nationalbibliothek, Frankfurt a.M.)  
