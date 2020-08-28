@@ -7,5 +7,5 @@ In drei Schritten nähern wir uns dabei der Analyse der Metadaten und damit auch
 * Wie bearbeite ich die erhaltenen Metdaten weiter? Datenauswahl und -konvertierung
 * Wie analysiere und visualisiere ich die Metadaten gemäß meiner Forschungsfrage? Datenanalyse
 
-Alle Aufgaben werden in Python gelöst. Daher ist eine entsprechende technische Ausstattung Voraussetzung (Laptop mit Python vorinstalliert –  eine Anleitung wird bereit gestellt). Bereits vorhandene eigene Programmierkenntnisse sind nicht erforderlich, aber das entsprechende Interesse daran. **Die Teilnehmerzahl ist auf 20 limitiert**. Bei der Anmeldung ist eine eigene Forschungsfrage anzugeben. Für die Plätze waren sehr schnell ausgebucht - wir arbeiten an einer Wiederholung und Fortsetzung.
+Alle Aufgaben werden in Python gelöst. Daher ist eine entsprechende technische Ausstattung Voraussetzung (Laptop mit Python vorinstalliert –  eine Anleitung wird bereit gestellt). Bereits vorhandene eigene Programmierkenntnisse sind nicht erforderlich, aber das entsprechende Interesse daran. **Die Teilnehmerzahl ist auf 20 limitiert**. Bei der Anmeldung ist eine eigene Forschungsfrage anzugeben. Die Plätze waren sehr schnell ausgebucht - wir arbeiten an einer Wiederholung und Fortsetzung.
 
