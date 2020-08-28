@@ -7,5 +7,5 @@ In drei Schritten nähern wir uns dabei der Analyse der Metadaten und damit auch
 * Wie bearbeite ich die erhaltenen Metdaten weiter? Datenauswahl und -konvertierung
 * Wie analysiere und visualisiere ich die Metadaten gemäß meiner Forschungsfrage? Datenanalyse
 
-Alle Aufgaben werden in Python gelöst. Es wird ein Tutorial und Jupyter Notebook bereit gestellt. Alles was ihr braucht ist also eine stabile Internetverbindung. Bereits vorhandene eigene Programmierkenntnisse sind nicht erforderlich, aber das entsprechende Interesse daran. **Die Teilnehmerzahl ist auf 20 limitiert**. Bei der Anmeldung ist eine eigene Forschungsfrage anzugeben. Die Plätze waren sehr schnell ausgebucht - wir arbeiten an einer Wiederholung und Fortsetzung.
+Alle Aufgaben werden in Python gelöst. Es wird ein Tutorial und Jupyter Notebook bereit gestellt. Alles was ihr braucht ist also eine stabile Internetverbindung und ein Github-Account. Bereits vorhandene eigene Programmierkenntnisse sind nicht erforderlich, aber das entsprechende Interesse daran. **Die Teilnehmerzahl ist auf 20 limitiert**. Bei der Anmeldung ist eine eigene Forschungsfrage anzugeben. Die Plätze waren sehr schnell ausgebucht - wir arbeiten an einer Wiederholung und Fortsetzung.
 
