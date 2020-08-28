@@ -6,7 +6,7 @@ DH-Projekte, Bibliotheken, Archive und Forschende, die mit Zeitungs- und Zeitsch
 Von der Bilddigitalisierung über Text-, Bild- und Layouterkennung und Metadatenmodelle bis zu konkreten geisteswissenschaftlichen Forschungsfragen stellt die wissenschaftliche Beschäftigung mit Zeitungen und Zeitschriften im Bereich der DH Herausforderungen, die gemeinsam betrachtet werden sollten. Auf diese Weise werden Insellösungen, die eine Nachnutzung der Digitalisate, Metadaten und Forschungsresultate erschweren, vermieden und Kooperationen vereinfacht.
 
 ### Aktuelles   
-* 03.-04. September 2020 - [Metadaten Workshop der AG](https://dhd-blog.org/?p=14076)
+* 03.-04. September 2020 - [Metadaten Workshop der AG](https://dhd-ag-zz.github.io/workshops/2020-09_metadata_analysis)
 * [DHd2020 Paderborn](https://dhd2020.de/programm/) (02.-06. März 2020): Die AG lädt zu zwei Treffen ein:  
 1. Dienstag, 03. März, 12:00 - 13:30 (Q 5 245): Das Treffen dient der Nachbereitung des AG Workshops zum Thema ["OCR Herausforderungen und Lösungen für Zeitungen & Zeitschriften"](https://dhd-ag-zz.github.io/workshops/ocr_2019-11-11) - (Ansprechpartner: Dario Kampkaspar)  
 2. Mittwoch, 04. März, 12:30 - 14:00 (H5): Das Treffen ist für die Planung weiterer AG Aktivitäten gedacht und konkret für die Konzeption einer Workshopreihe mit dem Arbeitstitel "Transformation, Annotation, Interpretation" (Ansprechpartner: Nanette Rißler-Pipka, Torsten Roeder, Estelle Bunout, Matthias Arnold)
