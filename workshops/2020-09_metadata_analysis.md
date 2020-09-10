@@ -9,3 +9,8 @@ In drei Schritten nähern wir uns dabei der Analyse der Metadaten und damit auch
 
 Alle Aufgaben werden in Python gelöst. Es wird ein Tutorial und Jupyter Notebook bereit gestellt. Alles was ihr braucht ist also eine stabile Internetverbindung und ein Github-Account. Bereits vorhandene eigene Programmierkenntnisse sind nicht erforderlich, aber das entsprechende Interesse daran. **Die Teilnehmerzahl ist auf 20 limitiert**. Bei der Anmeldung ist eine eigene Forschungsfrage anzugeben. Die Plätze waren sehr schnell ausgebucht - wir arbeiten an einer Wiederholung und Fortsetzung.
 
+#### Konzeption, Organisation und Durchführung (alphabetisch)
+* Mark Hall (The Open University, Milton Keynes), Dozent
+* Andreas Lüschow (SUB Göttingen), Dozent
+* Nanette Rißler-Pipka (Georg-August-Universität Göttingen), AG-Convenor
+* Torsten Roeder (Leopoldina, Halle/Saale), Co-Convenor
