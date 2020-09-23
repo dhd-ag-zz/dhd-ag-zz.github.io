@@ -15,7 +15,7 @@ Alle Aufgaben werden in Python gelöst. Es wird ein Tutorial und Jupyter Noteboo
 * Nanette Rißler-Pipka (Staats- und Universitätsbibliothek Göttingen), AG-Convenor
 * Torsten Roeder (Leopoldina, Halle/Saale), Co-Convenor
 
-#### Materialien und Links aus dem Workshop:
+#### Materialien und Links aus dem Workshop
 * Das Tutorial von Mark Hall auf GitHub: [https://github.com/mmh352/metadata-tutorial](https://github.com/mmh352/metadata-tutorial)
 * Polymatheia - A python library to support digital archive metadata use: [https://github.com/scmmmh/polymatheia](https://github.com/scmmmh/polymatheia)
 * Präsentation von Andreas Lüschow unter dem Titel "METS, MODS und Co. - Wo sind meine Metadaten? Grundlagen, Standards, Schwierigkeiten": [http://noeffingtonpost.de/sub/agzz/presentation](http://noeffingtonpost.de/sub/agzz/presentation)
