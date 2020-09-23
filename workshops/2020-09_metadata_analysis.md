@@ -16,9 +16,9 @@ Alle Aufgaben werden in Python gelöst. Es wird ein Tutorial und Jupyter Noteboo
 * Torsten Roeder (Leopoldina, Halle/Saale), Co-Convenor
 
 #### Materialien und Links aus dem Workshop:
-* Das Tutorial von Mark Hall auf GitHub: https://github.com/mmh352/metadata-tutorial
-* Polymatheia - A python library to support digital archive metadata use: https://github.com/scmmmh/polymatheia
-* Präsentation von Andreas Lüschow unter dem Titel "METS, MODS und Co. - Wo sind meine Metadaten? Grundlagen, Standards, Schwierigkeiten": http://noeffingtonpost.de/sub/agzz/presentation
+* Das Tutorial von Mark Hall auf GitHub: [https://github.com/mmh352/metadata-tutorial](https://github.com/mmh352/metadata-tutorial)
+* Polymatheia - A python library to support digital archive metadata use: [https://github.com/scmmmh/polymatheia](https://github.com/scmmmh/polymatheia)
+* Präsentation von Andreas Lüschow unter dem Titel "METS, MODS und Co. - Wo sind meine Metadaten? Grundlagen, Standards, Schwierigkeiten": [http://noeffingtonpost.de/sub/agzz/presentation](http://noeffingtonpost.de/sub/agzz/presentation)
 * YouTube-Kanal "Python Tutorials for Digital Humanities": https://www.youtube.com/channel/UC5vr5PwcXiKX_-6NTteAlXw
 * Eine Sammlung von OAI-PMH Schnittstellen ausgwählter Portale mit Zeitungen und Zeitschriften findet sich [hier](AGZZ-OAI-PMHSchnittstellen.pdf)
 
