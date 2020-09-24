@@ -14,7 +14,8 @@
 * [Literatur im Zeitalter der Illustrierten](http://gepris.dfg.de/gepris/projekt/282457319)
 * [More than a Feeling](http://media-sentiment.uni-leipzig.de/)
 * [Revistas Culturales](http://www.revistas-culturales.de/)  
-* [Geschichte(n) für viele: Historische Lebenswelten in Familien-, Frauen- und Kinderzeitschriften des viktorianischen England](http://portal.uni-freiburg.de/historische-lebenswelten/projekte/BK_DL)  
+* [Geschichte(n) für viele: Historische Lebenswelten in Familien-, Frauen- und Kinderzeitschriften des viktorianischen England](http://portal.uni-freiburg.de/historische-lebenswelten/projekte/BK_DL)
+* [Die Datenlaube](https://diedatenlaube.github.io/) - [Die Gartenlaube)](https://de.wikisource.org/wiki/Die_Gartenlaube)
 
 **EU** 
 * [Europeana Newspapers](http://europeana-newspapers.eu/)
