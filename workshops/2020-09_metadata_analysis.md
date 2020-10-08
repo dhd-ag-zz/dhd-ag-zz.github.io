@@ -13,7 +13,8 @@ Alle Aufgaben werden in Python gelöst. Es wird ein Tutorial und Jupyter Noteboo
 * Mark Hall (The Open University, Milton Keynes), Dozent
 * Andreas Lüschow (Staats- und Universitätsbibliothek Göttingen), Dozent
 * Nanette Rißler-Pipka (Staats- und Universitätsbibliothek Göttingen), AG-Convenor
-* Torsten Roeder (Leopoldina, Halle/Saale), Co-Convenor
+* Torsten Roeder (Leopoldina, Halle/Saale), Co-Convenor  
+* Angela Vorndran (Deutsche Nationalbibliothek) 
 
 #### Materialien und Links aus dem Workshop
 * Das Tutorial von Mark Hall auf GitHub: [https://github.com/mmh352/metadata-tutorial](https://github.com/mmh352/metadata-tutorial)
