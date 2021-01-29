@@ -6,7 +6,7 @@
 
 *Eric Decker* (Departement Geschichte, Universität Basel)   
 
-*Patrick Dinger* (Deutsche Digitale Bibliothek, Zeitungsportal, Deutsche Nationalbibliothek, Frankfurt a.M.)   
+*Patrick Dinger* (Referent für digitales Service- und Sammlungsmanagement, Universitäts- und Landesbibliothek Münster)   
 
 *Hanno Ehrlicher* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)  
 
