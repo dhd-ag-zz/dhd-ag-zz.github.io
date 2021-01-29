@@ -8,7 +8,7 @@
 * [Märkte auf Papier. Informationen, Daten und Nachrichten im Basler "Avisblatt", 1729-1845](https://forschdb2.unibas.ch/inf2/rm_projects/object_view.php?r=4486067)  
 
 **DE**
-* [DDB Zeitungsportal](https://pro.deutsche-digitale-bibliothek.de/ddb-zeitungsportal)
+* [Deutsches Zeitungsportal](https://pro.deutsche-digitale-bibliothek.de/node/984)
 * [Der Sturm](https://www.adwmainz.de/projekte/der-sturm-digitale-quellenedition-zur-geschichte-der-internationalen-avantgarde/informationen.html)
 * [Forschergruppe Journalliteratur](https://journalliteratur.blogs.ruhr-uni-bochum.de/)
 * [Literatur im Zeitalter der Illustrierten](http://gepris.dfg.de/gepris/projekt/282457319)
