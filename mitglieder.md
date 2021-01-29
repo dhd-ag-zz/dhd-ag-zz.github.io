@@ -12,7 +12,7 @@
 
 *Mark Hall* (The Open University: Milton Keynes, GB)
 
-*Urte Helduser* (Forschungsprojekt, Universität Köln)  
+*Urte Helduser* (Institut für Deutsche Sprache und Literatur I, Universität Köln)  
 
 *Jürgen Hermes* (Institut für Digital Humanities, Universität Köln)
 
