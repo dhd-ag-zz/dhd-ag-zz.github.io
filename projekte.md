@@ -10,6 +10,7 @@
 **DE**
 * [Deutsches Zeitungsportal](https://pro.deutsche-digitale-bibliothek.de/node/984)
 * [Der Sturm](https://www.adwmainz.de/projekte/der-sturm-digitale-quellenedition-zur-geschichte-der-internationalen-avantgarde/informationen.html)
+* [DNBLab](https://www.dnb.de/DE/Professionell/Services/WissenschaftundForschung/DNBLab/dnblab_node.html)
 * [Forschergruppe Journalliteratur](https://journalliteratur.blogs.ruhr-uni-bochum.de/)
 * [Literatur im Zeitalter der Illustrierten](http://gepris.dfg.de/gepris/projekt/282457319)
 * [More than a Feeling](http://media-sentiment.uni-leipzig.de/)
