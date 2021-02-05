@@ -1,6 +1,6 @@
 ### Metadaten-Workshop der AG Zeitungen & Zeitschriften: Von Datenquellen zur Analyse und Visualisierung
 
-**Team**: Nanette Rißler-Pipka, SUB Göttingen (@NanetteRissler) | Mark Hall, The Open University | Andreas Lüschow, SUB Göttingen | Torsten Roeder, Leopoldina Nationale Akademie der Wissenschaften | Harald Lordick, Salomon Ludwig Steinheim Institut, Essen
+**Team**: Nanette Rißler-Pipka, SUB Göttingen (@NanetteRissler); Mark Hall, The Open University; Andreas Lüschow, SUB Göttingen; Torsten Roeder, Leopoldina Nationale Akademie der Wissenschaften; Harald Lordick, Salomon Ludwig Steinheim Institut, Essen
 
 Die DHd-AG Zeitungen & Zeitschriften bietet einen virtuellen Workshop an, um anhand komplexer Beispiele der Medien Zeitungen und Zeitschriften zu zeigen, wie man an die Metadaten heran kommt, wie man sie danach weiter vorbereitet, um dann spezifische Forschungsfragen damit zu beantworten. Das Angebot digitaler Ressourcen zu Zeitungen und Zeitschriften beginnt beim Eintrag der bibliografischen Metadaten in Kataloge und Verzeichnisse und führt über die Metadaten aus dem Digitalisierungsprozess (Bild-Digitalisierung) bis hin zu den Metadaten des Volltexts (sollte dieser vorhanden sein). 
 
