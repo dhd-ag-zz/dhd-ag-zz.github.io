@@ -6,7 +6,7 @@ DH-Projekte, Bibliotheken, Archive und Forschende, die mit Zeitungs- und Zeitsch
 Von der Bilddigitalisierung über Text-, Bild- und Layouterkennung und Metadatenmodelle bis zu konkreten geisteswissenschaftlichen Forschungsfragen stellt die wissenschaftliche Beschäftigung mit Zeitungen und Zeitschriften im Bereich der DH Herausforderungen, die gemeinsam betrachtet werden sollten. Auf diese Weise werden Insellösungen, die eine Nachnutzung der Digitalisate, Metadaten und Forschungsresultate erschweren, vermieden und Kooperationen vereinfacht.
 
 ### Aktuelles   
-* Unsere Convener Nanette Rißler-Pipka und Torsten Roeder im Interview mit RaDiHum20: https://radihum20.de/ag-zeitungen-und-zeitschriften/
+* Unsere Convener Nanette Rißler-Pipka und Torsten Röder im Interview mit RaDiHum20: https://radihum20.de/ag-zeitungen-und-zeitschriften/
 * 22.–23. März 2021: [Metadaten-Workshop auf der vDHd21: Von Datenquellen zur Analyse und Visualisierung](https://dhd-ag-zz.github.io/workshops/workshop_vDHd21)
 * 03.-04. September 2020 - [Metadaten Workshop der AG](https://dhd-ag-zz.github.io/workshops/2020-09_metadata_analysis)
 * [DHd2020 Paderborn](https://dhd2020.de/programm/) (02.-06. März 2020): Die AG lädt zu zwei Treffen ein:  
