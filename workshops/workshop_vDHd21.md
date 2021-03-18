@@ -13,6 +13,8 @@ Alle Aufgaben werden in Python gelöst. Es wird ein Tutorial und Jupyter Noteboo
 Bitte melden Sie sich bis spätestens zum Sonntag, 14.03.2021, bei den AG-Convenors (Nanette Rißler-Pipka (rissler-pipka(at)sub.uni-goettingen.de), Torsten Roeder (torsten.roeder(at)leopoldina.org)) per E-Mail an. Sie erhalten danach den Link zum BBB-Raum und alle weiteren nötigen Informationen.
 Teilnehmerzahl: max. 20
 
+_Hinweis:_ Alle vorhandenen Plätze sind bereits mit Überbuchung vergeben. Eine Anmeldung ist nicht mehr möglich.
+
 ## Termine
 Montag, 22.03.2021, 09-16 Uhr und Dienstag, 23.03.2021, 10-17 Uhr
 
