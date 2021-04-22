@@ -46,7 +46,7 @@
 
 *Claudia Resch* (Wienerisches Diarium, Austrian Academy of Science, Wien)    
 
-*Nanette Rißler-Pipka* (convenor, Staats- und Universitätsbibliothek Göttingen)    
+*Nanette Rißler-Pipka* (convenor, Niedersächsische Staats- und Universitätsbibliothek Göttingen)    
 
 *Torsten Roeder* (co-convenor, Leopoldina, Halle)  
 
