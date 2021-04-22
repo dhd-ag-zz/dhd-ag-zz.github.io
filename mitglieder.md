@@ -20,7 +20,7 @@
 
 *Dario Kampkaspar* (Wienerisches Diarium, Austrian Academy of Science, Wien)    
 
-*Jana Keck* (Oceanic Exchanges, Universität Stuttgart)    
+*Jana Keck* (Head of Digital History, German Historical Institute Washington DC)    
 
 *Barbara Korte* (Englisches Seminar, Albert-Ludwigs-Universität Freiburg)  
 
