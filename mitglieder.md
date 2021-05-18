@@ -6,7 +6,9 @@
 
 *Eric Decker* (Departement Geschichte, Universität Basel)   
 
-*Patrick Dinger* (Referent für digitales Service- und Sammlungsmanagement, Universitäts- und Landesbibliothek Münster)   
+*Patrick Dinger* (Referent für digitales Service- und Sammlungsmanagement, Universitäts- und Landesbibliothek Münster)
+
+*Tinghui Duan* (DFG-Graduiertenkolleg "Modell Romantik", Friedrich-Schiller-Universität Jena)
 
 *Hanno Ehrlicher* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)  
 
