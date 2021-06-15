@@ -52,6 +52,8 @@
 
 *Torsten Roeder* (co-convenor, Leopoldina, Halle)  
 
+*Hendrikje Schauer* (Literaturwissenschaften, Europa-Universität Viadrina)
+
 *Jana Madleen Schütte* (Badische Landesbibliothek, Karlsruhe)  
 
 *Ina Cathrin Serif* (Departement Geschichte, Universität Basel)   
