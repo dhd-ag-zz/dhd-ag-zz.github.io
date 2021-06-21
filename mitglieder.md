@@ -42,7 +42,7 @@
 
 *Clemens Neudecker* (Europeana Newspapers, Staatsbibliothek zu Berlin)    
 
-*Madleen Podewski* (DFG-Projekt: Literatur im Zeitalter der Illustrierten: Stationen komplexer Text-Bild-Beziehungen im 19. Jahrhundert, Freie Universität Berlin)    
+*Madleen Podewski* (DFG-Projekt: Literatur im Zeitalter der Illustrierten: Stationen komplexer Text-Bild-Beziehungen im 19. Jahrhundert, Freie Universität Berlin)
 
 *Anna Reimann* (Departement Geschichte, Universität Basel)   
 
@@ -60,8 +60,8 @@
 
 *Marjam Trautmann* (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)
 
-*Lino Wehrheim* (Universität Regensburg, Projekt: More than a Feeling)
-
 *Christian Wachter* (Seminar für Mittlere und Neuere Geschichte, Georg-August-Universität Göttingen)
+
+*Lino Wehrheim* (Universität Regensburg, Projekt: More than a Feeling)
 
 *Angela Vorndran* (Deutsche Nationalbibliothek, Frankfurt a.M.)  
