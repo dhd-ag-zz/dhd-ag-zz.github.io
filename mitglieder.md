@@ -62,4 +62,6 @@
 
 *Lino Wehrheim* (Universität Regensburg, Projekt: More than a Feeling)
 
+*Christian Wachter* (Seminar für Mittlere und Neuere Geschichte, Georg-August-Universität Göttingen)
+
 *Angela Vorndran* (Deutsche Nationalbibliothek, Frankfurt a.M.)  
