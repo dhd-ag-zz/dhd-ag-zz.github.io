@@ -24,7 +24,12 @@
 * [NewsEye](http://newseye.eu/)
 
 **International**
+* [الصحافة PRESS](https://www.turath2020.org/press)
+* [Chinese Women's Magazines in the Late Qing and Early Republican Period (WoMag)](https://uni-heidelberg.de/womag) 
+* [Chinese Entertainment Newspapers (Xiaobao)](http://xiaobao.uni-hd.de/)
 * [Digitization of Philippine Rare Perodicals and Training in DH](https://www.uantwerpen.be/en/research-groups/digitalhumanities/about/projects/vlir-uos/)
+* [Early Chinese Periodicals Online (ECPO)] (https://uni-heidelberg.de/ecpo)
+* [Explore Arab American History](https://www.arabicarchives.org/)
 * [IFLA News Media Section](https://www.ifla.org/news-media)
 * [IIIF Newspaper Community Group](https://iiif.io/community/groups/newspapers/)
 * [International Coalition On Newspapers](http://icon.crl.edu/)
