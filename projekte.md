@@ -33,6 +33,8 @@
 * [IFLA News Media Section](https://www.ifla.org/news-media)
 * [IIIF Newspaper Community Group](https://iiif.io/community/groups/newspapers/)
 * [International Coalition On Newspapers](http://icon.crl.edu/)
+* [Jara'id: A Chronology of Arabic Periodicals (1800-1929)](https://projectjaraid.github.io/)
 * [Oceanic Exchanges](http://oceanicexchanges.org/)
+* [Open Arabic Periodical Editions: A framework for bootstrapped digital scholarly editions outside the Global North](https://openarabicpe.github.io/)
 * [TEI SIG Newspapers and Periodicals](http://www.tei-c.org/Activities/SIG/)  
 * [The Viral Texts Project](https://viraltexts.org/)
