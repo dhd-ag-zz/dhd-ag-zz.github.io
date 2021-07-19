@@ -1,7 +1,7 @@
 ### Initiativen und Projekte
 
 **AT**
-* [Wienerisches Diarium Digital](https://www.oeaw.ac.at/acdh/projects/wiennerisches-diarium-digital/)
+* [Wienerisches Diarium Digital](https://digitarium.acdh.oeaw.ac.at/)
 
 **CH**
 * [impresso](http://impresso-project.ch/)  
