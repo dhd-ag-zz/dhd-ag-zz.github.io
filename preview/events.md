@@ -4,7 +4,7 @@ description: Veranstaltungen
 ---
 
 # Aktuelles
-* 21.–22. November 2021: [Korpusbildung-Workshop](https://dhd-ag-zz.github.io/workshops/2021-11_korpusbildung)
+* 11.–12. November 2021: [Korpusbildung-Workshop](https://dhd-ag-zz.github.io/workshops/2021-11_korpusbildung)
 * Unsere Convenors Nanette Rißler-Pipka und Torsten Roeder im Interview mit RaDiHum20: [https://radihum20.de/ag-zeitungen-und-zeitschriften](https://radihum20.de/ag-zeitungen-und-zeitschriften)
 * 22.–23. März 2021: [Metadaten-Workshop auf der vDHd21: Von Datenquellen zur Analyse und Visualisierung](https://dhd-ag-zz.github.io/workshops/workshop_vDHd21)
 
