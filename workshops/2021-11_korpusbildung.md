@@ -1,5 +1,5 @@
 
-### Virtueller Workshop Korpusbildung
+# Virtueller Workshop Korpusbildung
 
 Die DHd-AG Zeitungen & Zeitschriften bietet am **11. und 12. November 2021 jeweils von 9:00-13:00 Uhr** einen virtuellen Workshop an, um anhand digitaler Zeitungs- und Zeitschriftenbestände zu zeigen, wie die für viele Forschende notwendige, individuelle Korpusbildung in Zeitungsportalen selbst sowie mittels NLP-Methoden unterstützt werden kann. 
 
