@@ -27,10 +27,9 @@ eMail: rissler-pipka@sub.uni-goettingen.de
 Stellvertretender Convenor:
 
 **Torsten Roeder**  
-Vertretungs-Professur Digital Humanities WS21/22
-Bergische Universität Wuppertal
-Fakultät für Geistes- und Kulturwissenschaften
-Digital Humanities
+Vertretungs-Professur Digital Humanities WS21/22    
+Bergische Universität Wuppertal    
+Fakultät für Geistes- und Kulturwissenschaften    
 eMail: dh@torstenroeder.de
 
 **Mailingliste hier abonnieren**: [http://lists.lists.digitalhumanities.org/mailman/listinfo/dhd-ag-zz](http://lists.lists.digitalhumanities.org/mailman/listinfo/dhd-ag-zz) 
