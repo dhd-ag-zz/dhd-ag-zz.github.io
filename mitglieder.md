@@ -50,7 +50,7 @@
 
 *Nanette Rißler-Pipka* (convenor, Niedersächsische Staats- und Universitätsbibliothek Göttingen)    
 
-*Torsten Roeder* (co-convenor, Leopoldina, Halle)  
+*Torsten Roeder* (co-convenor, Universität Wuppertal)  
 
 *Hendrikje Schauer* (Literaturwissenschaften, Europa-Universität Viadrina)
 
