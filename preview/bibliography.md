@@ -3,4 +3,4 @@ layout: preview
 description: Bibliography
 ---
 
-<script src="https://raw.githubusercontent.com/dhd-ag-zz/dhd-ag-zz.github.io/master/assets/bib.js"></script>
+<script src="https://api.zotero.org/groups/4472460/collections/FK3UWFVP/items/top?format=bib&style=geistes-und-kulturwissenschaften-heilmann&linkwrap=1"></script>
