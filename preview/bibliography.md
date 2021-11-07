@@ -3,4 +3,4 @@ layout: preview
 description: Bibliography
 ---
 
-{% include bib.js %}
+{% include bib.html %}
