@@ -3,6 +3,4 @@ layout: preview
 description: Bibliography
 ---
 
-<script>
-{{ bib.js }}
-</script>
+{% include bib.html %}
