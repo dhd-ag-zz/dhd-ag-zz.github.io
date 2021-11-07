@@ -11,7 +11,7 @@
         <h1>Hello World!</h1>
         <div w3-include-html="https://api.zotero.org/groups/4472460/collections/FK3UWFVP/items/top?format=bib&style=geistes-und-kulturwissenschaften-heilmann&linkwrap=1"></div>
         <script>
-            w3IncludeHTML('');
+            w3IncludeHTML("https://api.zotero.org/groups/4472460/collections/FK3UWFVP/items/top?format=bib&style=geistes-und-kulturwissenschaften-heilmann&linkwrap=1");
         </script>
     </body>
 </html>
