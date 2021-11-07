@@ -3,4 +3,4 @@ layout: preview
 description: Bibliography
 ---
 
-{% include bib.html %}
+{% https://dhd-ag-zz.github.io/preview/bib.html %}
