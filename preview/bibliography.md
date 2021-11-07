@@ -3,4 +3,4 @@ layout: preview
 description: Bibliography
 ---
 
-{% include assets/bib.js %}
+<script src="/assets/some-script.js"></script>
