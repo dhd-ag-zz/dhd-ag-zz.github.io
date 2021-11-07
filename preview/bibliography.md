@@ -3,4 +3,4 @@ layout: preview
 description: Bibliography
 ---
 
-<script src="/assets/some-script.js"></script>
+<script src="https://raw.githubusercontent.com/dhd-ag-zz/dhd-ag-zz.github.io/master/assets/bib.js"></script>
