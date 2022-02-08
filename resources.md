@@ -1,5 +1,5 @@
 ---
-layout: preview
+layout: default
 description: Ressourcen
 ---
 

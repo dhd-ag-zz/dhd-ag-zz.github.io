@@ -1,5 +1,5 @@
 ---
-layout: preview
+layout: default
 description: Mitglieder
 ---
 
@@ -30,9 +30,13 @@ eMail: 	torsten.roeder@leopoldina.org
 
 *Patrick Dinger* (Referent für digitales Service- und Sammlungsmanagement, Universitäts- und Landesbibliothek Münster)
 
+*Martin Dröge* (Humboldt-Universität zu Berlin)
+
 *Tinghui Duan* (DFG-Graduiertenkolleg "Modell Romantik", Friedrich-Schiller-Universität Jena)
 
 *Hanno Ehrlicher* (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)  
+
+*Till Grallert* (Orient-Institut Beirut)
 
 *Mark Hall* (The Open University: Milton Keynes, GB)
 
@@ -64,6 +68,10 @@ eMail: 	torsten.roeder@leopoldina.org
 
 *Clemens Neudecker* (Europeana Newspapers, Staatsbibliothek zu Berlin)    
 
+*Sarah Oberbichler* (Universität Innsbruck)
+
+*Eva Pfanzelter* (Universität Innsbruck)
+
 *Madleen Podewski* (DFG-Projekt: Literatur im Zeitalter der Illustrierten: Stationen komplexer Text-Bild-Beziehungen im 19. Jahrhundert, Freie Universität Berlin)
 
 *Anna Reimann* (Departement Geschichte, Universität Basel)   
@@ -79,6 +87,8 @@ eMail: 	torsten.roeder@leopoldina.org
 *Jana Madleen Schütte* (Badische Landesbibliothek, Karlsruhe)  
 
 *Ina Cathrin Serif* (Departement Geschichte, Universität Basel)   
+
+*Haimo Stiemer* (Carl von Ossietzky Universität Oldenburg)
 
 *Marjam Trautmann* (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)
 
