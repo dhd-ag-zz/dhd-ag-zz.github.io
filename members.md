@@ -94,8 +94,8 @@ eMail: 	torsten.roeder@leopoldina.org
 
 **Marjam Trautmann** (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)
 
+**Angela Vorndran** (Deutsche Nationalbibliothek, Frankfurt a.M.)
+
 **Christian Wachter** (Seminar für Mittlere und Neuere Geschichte, Georg-August-Universität Göttingen)
 
 **Lino Wehrheim** (Universität Regensburg, Projekt: More than a Feeling)
-
-**Angela Vorndran** (Deutsche Nationalbibliothek, Frankfurt a.M.)  
