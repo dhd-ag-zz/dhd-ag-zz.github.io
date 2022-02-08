@@ -36,7 +36,7 @@ eMail: 	torsten.roeder@leopoldina.org
 
 **Hanno Ehrlicher** (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)  
 
-**Till Grallert** (Orient-Institut Beirut)
+**Till Grallert** (Humboldt-Universität zu Berlin)
 
 **Mark Hall** (The Open University: Milton Keynes, GB)
 
