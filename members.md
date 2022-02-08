@@ -40,7 +40,7 @@ eMail: 	torsten.roeder@leopoldina.org
 
 **Mark Hall** (The Open University: Milton Keynes, GB)
 
-**Urte Helduser** (Institut für Deutsche Sprache und Literatur I, Universität Köln)  
+**Urte Helduser** (Carl von Ossietzky Universität Oldenburg)  
 
 **Jürgen Hermes** (Institut für Digital Humanities, Universität Köln)
 
