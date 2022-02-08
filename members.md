@@ -74,9 +74,11 @@ eMail: 	torsten.roeder@leopoldina.org
 
 **Madleen Podewski** (DFG-Projekt: Literatur im Zeitalter der Illustrierten: Stationen komplexer Text-Bild-Beziehungen im 19. Jahrhundert, Freie Universität Berlin)
 
+**Nina Rastinger** (Österreichische Akademie der Wissenschaften)
+
 **Anna Reimann** (Departement Geschichte, Universität Basel)   
 
-**Claudia Resch** (Wienerisches Diarium, Austrian Academy of Science, Wien)    
+**Claudia Resch** (Wienerisches Diarium, Österreichische Akademie der Wissenschaften)    
 
 **Nanette Rißler-Pipka** (convenor, Niedersächsische Staats- und Universitätsbibliothek Göttingen)    
 
