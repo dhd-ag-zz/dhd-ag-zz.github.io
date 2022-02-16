@@ -16,7 +16,7 @@
 
 * Die Tags beziehen sich auf den inhaltlichen Gegenstand, nicht auf die Quelle selbst.
 * Die Zotero-Tags sind in semantische Gruppen gegliedert.
-* Jede Gruppe wird außerdem durch einen Namensraum eingeleitet.
+* Jede Gruppe wird außerdem durch einen Namensraum eingeleitet. Dadurch bleibt gut erkennbar, welche Tags aus Katalogen kommen.
 * Innerhalb der Gruppen werden möglichst normierte Schreibweisen oder Codes verwendet.
 * Die Tag-Gruppen sind für die verschiedenen Collections unterschiedlich gut geeignet.
 
