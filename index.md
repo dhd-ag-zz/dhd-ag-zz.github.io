@@ -12,11 +12,10 @@ Von der Bilddigitalisierung über Text-, Bild- und Layouterkennung und Metadaten
 
 ## Kontakt/Convenor
 **Nanette Rißler-Pipka**    
-Georg-August-Universität Göttingen  
-Niedersächsische Staats- und Universitätsbibliothek Göttingen  
-Papendiek 14   
-37073 Göttingen     
-eMail: rissler-pipka@sub.uni-goettingen.de   
+Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)  
+Burckhardtweg 4
+37077 Göttingen     
+eMail: nanette.rissler-pipka@gwdg.de   
 
 Stellvertretender Convenor:
 
