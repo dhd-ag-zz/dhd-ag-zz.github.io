@@ -6,10 +6,9 @@ description: Mitglieder
 # Convenor
 
 **Nanette Rißler-Pipka**    
-Georg-August-Universität Göttingen  
-Niedersächsische Staats- und Universitätsbibliothek Göttingen  
-Papendiek 14   
-37073 Göttingen     
+Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)  
+Burckhardtweg 4  
+37077 Göttingen     
 eMail: rissler-pipka@sub.uni-goettingen.de   
 
 Stellvertretender Convenor:
@@ -80,7 +79,7 @@ eMail: 	torsten.roeder@leopoldina.org
 
 **Claudia Resch** (Wienerisches Diarium, Österreichische Akademie der Wissenschaften)    
 
-**Nanette Rißler-Pipka** (convenor, Niedersächsische Staats- und Universitätsbibliothek Göttingen)    
+**Nanette Rißler-Pipka** (convenor, Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen)    
 
 **Torsten Roeder** (co-convenor, Leopoldina, Halle)  
 
