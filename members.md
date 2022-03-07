@@ -79,7 +79,7 @@ eMail: dh@torstenroeder.de
 
 **Nanette Rißler-Pipka** (convenor, Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen)    
 
-**Torsten Roeder** (co-convenor, Leopoldina, Halle)  
+**Torsten Roeder** (co-convenor, Uni Wuppertal / Uni Würzburg)  
 
 **Hendrikje Schauer** (Literaturwissenschaften, Europa-Universität Viadrina)
 
