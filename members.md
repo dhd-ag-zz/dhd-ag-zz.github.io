@@ -9,7 +9,7 @@ description: Mitglieder
 Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)  
 Burckhardtweg 4  
 37077 Göttingen     
-eMail: rissler-pipka@sub.uni-goettingen.de   
+eMail: nanette.rissler-pipka@gwdg.de   
 
 Stellvertretender Convenor:
 
