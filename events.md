@@ -4,7 +4,7 @@ description: Aktivitäten
 ---
 
 # Aktuelles
-* 07. März 2022: DHd2022 - [Barcamp Headlines & Highlights](https://doi.org/10.5281/zenodo.6328151) 
+* Am 07. März 2022: DHd2022 - [Barcamp Headlines & Highlights](https://doi.org/10.5281/zenodo.6328151) 
 * Restrukturierung der AG Webseite
 * Aufbau und Einbinden einer [Zotero Bibliographie](https://www.zotero.org/groups/4472460/dhdagzz)
 
