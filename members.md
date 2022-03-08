@@ -3,20 +3,6 @@ layout: default
 description: Mitglieder
 ---
 
-# Convenor
-
-**Nanette Rißler-Pipka**    
-Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)  
-Burckhardtweg 4  
-37077 Göttingen     
-eMail: nanette.rissler-pipka@gwdg.de
-
-Stellvertretender Convenor:
-
-**Torsten Roeder**  
-Bergische Universität Wuppertal / Julius-Maximilians-Universität Würzburg  
-eMail: dh@torstenroeder.de
-
 # Mitglieder
 
 **Matthias Arnold** (Heidelberg research Architecture, Cluster of Excellence "Asia and Europe", Universität Heidelberg)   
