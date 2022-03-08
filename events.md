@@ -4,11 +4,15 @@ description: Aktivitäten
 ---
 
 # Aktuelles
+* 07. März 2022: DHd2022 - [Barcamp Headlines & Highlights](https://doi.org/10.5281/zenodo.6328151) 
+* Restrukturierung der AG Webseite
+* Aufbau und Einbinden einer [Zotero Bibliographie](https://www.zotero.org/groups/4472460/dhdagzz)
 
 # Vergangene Aktivitäten
 
 **2021**  
 * 11.–12. November 2021: [Korpusbildung-Workshop](https://dhd-ag-zz.github.io/workshops/2021-11_korpusbildung)
+* Diskussionspapier der AG zum Erneuerungsprozess der "Praxisregeln Digitalisierung" der DFG
 * Unsere Convenors Nanette Rißler-Pipka und Torsten Roeder im Interview mit RaDiHum20: [https://radihum20.de/ag-zeitungen-und-zeitschriften](https://radihum20.de/ag-zeitungen-und-zeitschriften)
 * 22.–23. März 2021: [Metadaten-Workshop auf der vDHd21: Von Datenquellen zur Analyse und Visualisierung](https://dhd-ag-zz.github.io/workshops/workshop_vDHd21)
 
