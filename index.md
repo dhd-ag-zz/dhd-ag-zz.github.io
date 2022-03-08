@@ -20,9 +20,7 @@ eMail: nanette.rissler-pipka@gwdg.de
 Stellvertretender Convenor:
 
 **Torsten Roeder**  
-Leopoldina - Nationale Akademie der Wissenschaften  
-Emil-Abderhalden-Str. 36    
-06108 Halle (Saale)    
-eMail: 	torsten.roeder@leopoldina.org   
+Bergische Universität Wuppertal / Julius-Maximilians-Universität Würzburg  
+eMail: dh@torstenroeder.de
 
 **Mailingliste hier abonnieren**: [http://lists.lists.digitalhumanities.org/mailman/listinfo/dhd-ag-zz](http://lists.lists.digitalhumanities.org/mailman/listinfo/dhd-ag-zz) 
