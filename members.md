@@ -17,9 +17,13 @@ description: Mitglieder
 
 **Tinghui Duan** (DFG-Graduiertenkolleg "Modell Romantik", Friedrich-Schiller-Universität Jena)
 
+**Marten Düring** (Luxembourg Centre for Contemporary and Digital History, UNIVERSITÉ DU LUXEMBOURG)
+
 **Hanno Ehrlicher** (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)  
 
 **Till Grallert** (Humboldt-Universität zu Berlin)
+
+**Stefan von der Heide** (CCS Content Conversion Specialists GmbH)
 
 **Mark Hall** (The Open University: Milton Keynes, GB)
 
