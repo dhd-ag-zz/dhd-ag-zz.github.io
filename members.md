@@ -7,7 +7,7 @@ description: Mitglieder
 
 **Matthias Arnold** (Heidelberg research Architecture, Cluster of Excellence "Asia and Europe", Universität Heidelberg)   
 
-**Estelle Bunout** (impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH)
+**Estelle Bunout** (impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH))
 
 **Eric Decker** (Departement Geschichte, Universität Basel)   
 
@@ -17,7 +17,7 @@ description: Mitglieder
 
 **Tinghui Duan** (DFG-Graduiertenkolleg "Modell Romantik", Friedrich-Schiller-Universität Jena)
 
-**Marten Düring** (Luxembourg Centre for Contemporary and Digital History, UNIVERSITÉ DU LUXEMBOURG)
+**Marten Düring** (impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH))
 
 **Hanno Ehrlicher** (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)  
 
