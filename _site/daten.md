@@ -22,3 +22,4 @@
 * [Revistas Culturales](https://www.revistas-culturales.de/) und das Korpus beim [Ibero-Amerikanischen Institut](https://digital.iai.spk-berlin.de/viewer/index/)
 * [DigiZeitschriften](https://www.digizeitschriften.de/de/startseite/)
 * [Delpher](https://www.delpher.nl/nl/tijdschriften)
+* [Corpus of Spanish Anarchist and Erotic Magazines of the Early Twentieth Century](https://github.com/elenabonmati/Corpus-of-Spanish-Anarchist-and-Erotic-Magazines-of-the-Early-Twentieth-Century)
