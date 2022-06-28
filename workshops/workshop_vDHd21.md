@@ -18,3 +18,9 @@ _Hinweis:_ Alle vorhandenen Plätze sind bereits mit Überbuchung vergeben. Eine
 ## Termine
 Montag, 22.03.2021, 09-16 Uhr und Dienstag, 23.03.2021, 10-17 Uhr
 
+#### Materialien und Links aus dem Workshop
+* Das Tutorial von Mark Hall auf GitHub: [https://github.com/mmh352/metadata-tutorial](https://github.com/mmh352/metadata-tutorial)
+* Polymatheia - A python library to support digital archive metadata use: [https://github.com/scmmmh/polymatheia](https://github.com/scmmmh/polymatheia)
+* Präsentation von Andreas Lüschow unter dem Titel "METS, MODS und Co. - Wo sind meine Metadaten? Grundlagen, Standards, Schwierigkeiten": [http://noeffingtonpost.de/sub/agzz/presentation](http://noeffingtonpost.de/sub/agzz/presentation)
+* YouTube-Kanal "Python Tutorials for Digital Humanities": [https://www.youtube.com/channel/UC5vr5PwcXiKX_-6NTteAlXw](https://www.youtube.com/channel/UC5vr5PwcXiKX_-6NTteAlXw)
+* Eine Sammlung von OAI-PMH Schnittstellen ausgewählter Portale mit Zeitungen und Zeitschriften findet sich [hier](AGZZ-OAI-PMHSchnittstellen.pdf)
