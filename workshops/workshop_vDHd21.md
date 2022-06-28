@@ -9,16 +9,16 @@ Wie komme ich an die Metadaten (Schnittstellen und Metadaten-Standards, Grundlag
 
 Alle Aufgaben werden in Python gelöst. Es wird ein Tutorial und Jupyter Notebook über eine Onlineplattform bereit gestellt. Alles, was ihr braucht ist also eine stabile Internetverbindung und ein Github-Account. Bereits vorhandene eigene Programmierkenntnisse sind nicht erforderlich, aber das entsprechende Interesse daran. Die Teilnehmerzahl ist auf 20 limitiert. Es wird um Anmeldung bis spätestens 1 Woche vor Workshopbeginn gebeten.
 
-## Anmeldung
+### Anmeldung
 Bitte melden Sie sich bis spätestens zum Sonntag, 14.03.2021, bei den AG-Convenors (Nanette Rißler-Pipka (rissler-pipka(at)sub.uni-goettingen.de), Torsten Roeder (torsten.roeder(at)leopoldina.org)) per E-Mail an. Sie erhalten danach den Link zum BBB-Raum und alle weiteren nötigen Informationen.
 Teilnehmerzahl: max. 20
 
 _Hinweis:_ Alle vorhandenen Plätze sind bereits mit Überbuchung vergeben. Eine Anmeldung ist nicht mehr möglich.
 
-## Termine
+### Termine
 Montag, 22.03.2021, 09-16 Uhr und Dienstag, 23.03.2021, 10-17 Uhr
 
-## Materialien und Links aus dem Workshop
+### Materialien und Links aus dem Workshop
 * Das Tutorial von Mark Hall auf GitHub: [https://github.com/mmh352/metadata-tutorial](https://github.com/mmh352/metadata-tutorial)
 * Polymatheia - A python library to support digital archive metadata use: [https://github.com/scmmmh/polymatheia](https://github.com/scmmmh/polymatheia)
 * Präsentation von Andreas Lüschow unter dem Titel "METS, MODS und Co. - Wo sind meine Metadaten? Grundlagen, Standards, Schwierigkeiten": [http://noeffingtonpost.de/sub/agzz/presentation](http://noeffingtonpost.de/sub/agzz/presentation)
