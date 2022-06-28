@@ -1,4 +1,4 @@
-### Metadaten-Workshop der AG Zeitungen & Zeitschriften: Von Datenquellen zur Analyse und Visualisierung
+## Metadaten-Workshop der AG Zeitungen & Zeitschriften: Von Datenquellen zur Analyse und Visualisierung
 
 **Team**: Nanette Rißler-Pipka, SUB Göttingen (@NanetteRissler); Mark Hall, The Open University; Andreas Lüschow, SUB Göttingen; Torsten Roeder, Leopoldina Nationale Akademie der Wissenschaften; Harald Lordick, Salomon Ludwig Steinheim Institut, Essen
 
