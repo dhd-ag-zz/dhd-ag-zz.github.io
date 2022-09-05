@@ -15,7 +15,7 @@ description: Mitglieder
 
 **Martin Dröge** (Humboldt-Universität zu Berlin)
 
-**Tinghui Duan** (DFG-Graduiertenkolleg "Modell Romantik", Friedrich-Schiller-Universität Jena)
+**Tinghui Duan** (Trier Center for Digital Humanities, Universität Trier)
 
 **Marten Düring** (impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH))
 
