@@ -19,8 +19,8 @@ eMail: nanette.rissler-pipka@gwdg.de
 
 Stellvertretender Convenor:
 
-**Torsten Roeder**  
-Bergische Universität Wuppertal / Julius-Maximilians-Universität Würzburg  
-eMail: dh@torstenroeder.de
+**Nina C. Rastinger**  
+Austrian Centre for Digital Humanities and Cultural Heritage  Universität Wuppertal / Julius-Maximilians-Universität Würzburg  
+eMail: ninaclaudia.rastinger@oeaw.ac.at
 
 **Mailingliste hier abonnieren**: [http://lists.lists.digitalhumanities.org/mailman/listinfo/dhd-ag-zz](http://lists.lists.digitalhumanities.org/mailman/listinfo/dhd-ag-zz) 
