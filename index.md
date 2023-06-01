@@ -12,17 +12,17 @@ Von der Bilddigitalisierung über Text-, Bild- und Layouterkennung und Metadaten
 
 ## Kontakt/Convenor
 **Estelle Bunout**    
-Université du Luxembourg
-
-2, Avenue de l'Université
+Université du Luxembourg    
+2, Avenue de l'Université   
 L-4365 Esch-sur-Alzette
 E-Mail: estelle.bunout@uni.lu
-
+    
 Stellvertretender Convenor:
-
+    
 **Nina C. Rastinger**  
-Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH), Österreichische Akademie der Wissenschaften (ÖAW)
-Bäckerstraße 13
+Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)  
+Österreichische Akademie der Wissenschaften (ÖAW)   
+Bäckerstraße 13 
 1010 Wien
 E-Mail: ninaclaudia.rastinger@oeaw.ac.at
 
