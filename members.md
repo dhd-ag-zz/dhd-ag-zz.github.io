@@ -7,7 +7,7 @@ description: Mitglieder
 
 **Matthias Arnold** (Heidelberg research Architecture, Cluster of Excellence "Asia and Europe", Universität Heidelberg)   
 
-**Estelle Bunout** (impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH))
+**Estelle Bunout** (convenor, impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH))
 
 **Eric Decker** (Departement Geschichte, Universität Basel)   
 
@@ -61,15 +61,15 @@ description: Mitglieder
 
 **Madleen Podewski** (DFG-Projekt: Literatur im Zeitalter der Illustrierten: Stationen komplexer Text-Bild-Beziehungen im 19. Jahrhundert, Freie Universität Berlin)
 
-**Nina Rastinger** (Österreichische Akademie der Wissenschaften)
+**Nina Rastinger** (co-convenor, Österreichische Akademie der Wissenschaften)
 
 **Anna Reimann** (Departement Geschichte, Universität Basel)   
 
 **Claudia Resch** (Wienerisches Diarium, Österreichische Akademie der Wissenschaften)    
 
-**Nanette Rißler-Pipka** (convenor, Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen)    
+**Nanette Rißler-Pipka** (Max Weber Stiftung, Deutsche Geisteswissenschaftliche Institute im Ausland, Bonn)    
 
-**Torsten Roeder** (co-convenor, Uni Wuppertal / Uni Würzburg)  
+**Torsten Roeder** (Uni Wuppertal / Uni Würzburg)  
 
 **Hendrikje Schauer** (Literaturwissenschaften, Europa-Universität Viadrina)
 
