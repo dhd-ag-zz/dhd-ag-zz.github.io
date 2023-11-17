@@ -5,7 +5,7 @@ description: Mitglieder
 
 # Mitglieder
 
-**Matthias Arnold** (Heidelberg research Architecture, Cluster of Excellence "Asia and Europe", Universität Heidelberg)   
+**Matthias Arnold** (Heidelberg Research Architecture, Heidelberg Center für Transcultural Studies, Universität Heidelberg)   
 
 **Estelle Bunout** (Convenor, impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH))
 
@@ -33,11 +33,15 @@ description: Mitglieder
 
 **Teresa Herzgsell** (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
 
-**Dario Kampkaspar** (Wienerisches Diarium, Austrian Academy of Science, Wien)    
+**Dario Kampkaspar** (Leitung Zentrum für digitale Editionen, Universitäts- und Landesbibliothek Darmstadt; vormals Wienerisches Diarium, Austrian Academy of Sciences, Wien)    
 
 **Jana Keck** (Head of Digital History, German Historical Institute Washington DC)    
 
 **Barbara Korte** (Englisches Seminar, Albert-Ludwigs-Universität Freiburg)  
+
+**Kevin Kuck** (Projektmitarbeiter Darmstädter Tagblatt, Zentrum für digitale Editionen, Universitäts- und Landesbibliothek Darmstadt)
+
+**Kara Kuebart** (Institut für Geschichtswissenschaft, Universität Bonn)
 
 **Lisa Landes** (Deutsche Digitale Bibliothek, Zeitungsportal, Deutsche Nationalbibliothek, Frankfurt a.M.)    
 
@@ -61,15 +65,19 @@ description: Mitglieder
 
 **Madleen Podewski** (DFG-Projekt: Literatur im Zeitalter der Illustrierten: Stationen komplexer Text-Bild-Beziehungen im 19. Jahrhundert, Freie Universität Berlin)
 
-**Nina C. Rastinger** (Co-Convenor, Österreichische Akademie der Wissenschaften)
+**Nina C. Rastinger** (Co-Convenor, Austrian Centre for Digital Humanities and Cultural Heritage, Österreichische Akademie der Wissenschaften)
 
 **Anna Reimann** (Departement Geschichte, Universität Basel)   
+
+**Martin Reisacher** (Universitätsbibliothek Basel)
 
 **Claudia Resch** (Wienerisches Diarium, Österreichische Akademie der Wissenschaften)    
 
 **Nanette Rißler-Pipka** (Max Weber Stiftung, Deutsche Geisteswissenschaftliche Institute im Ausland, Bonn)    
 
 **Torsten Roeder** (Uni Wuppertal / Uni Würzburg)  
+
+**Imelda Rohrbacher** ("Die Schaubühne", Österreichische Akademie der Wissenschaften)
 
 **Hendrikje Schauer** (Literaturwissenschaften, Europa-Universität Viadrina)
 
