@@ -81,7 +81,7 @@ description: Mitglieder
 
 **Hendrikje Schauer** (Literaturwissenschaften, Europa-Universität Viadrina)
 
-**Ina Cathrin Serif** (Departement Geschichte, Universität Basel)   
+**Ina Serif** (Departement Geschichte, Universität Basel)   
 
 **Haimo Stiemer** (Carl von Ossietzky Universität Oldenburg)
 
@@ -89,6 +89,6 @@ description: Mitglieder
 
 **Angela Vorndran** (Deutsche Nationalbibliothek, Frankfurt a.M.)
 
-**Christian Wachter** (Seminar für Mittlere und Neuere Geschichte, Georg-August-Universität Göttingen)
+**Christian Wachter** (Arbeitsbereich Digital History, Universität Bielefeld)
 
 **Lino Wehrheim** (Universität Regensburg, Projekt: More than a Feeling)
