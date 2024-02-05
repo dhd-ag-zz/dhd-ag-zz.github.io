@@ -26,4 +26,4 @@ Bäckerstraße 13
 1010 Wien   
 E-Mail: ninaclaudia.rastinger@oeaw.ac.at
 
-**Mailingliste hier abonnieren**: [http://lists.lists.digitalhumanities.org/mailman/listinfo/dhd-ag-zz](http://lists.lists.digitalhumanities.org/mailman/listinfo/dhd-ag-zz) 
+**Mailingliste hier abonnieren**: [https://lists.digitalhumanities.org/mailman/lists/dhd-ag-zz.lists.digitalhumanities.org/](https://lists.digitalhumanities.org/mailman/lists/dhd-ag-zz.lists.digitalhumanities.org/)
