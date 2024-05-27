@@ -4,11 +4,15 @@ description: Aktivitäten
 ---
 
 # Aktuelles
-* Am 07. März 2022: DHd2022 - [Barcamp Headlines & Highlights](https://doi.org/10.5281/zenodo.6328151) 
+* Workshopreihe "Reuse rund um digitalisierte Zeitungen & Zeitschriften" 
+* Online Reihe "Zeitungen & Zeitschriften in der (DH-)Lehre"
 * Restrukturierung der AG Webseite
 * Aufbau und Einbinden einer [Zotero Bibliographie](https://www.zotero.org/groups/4472460/dhdagzz)
 
 # Vergangene Aktivitäten
+
+**2022**
+* Am 07. März 2022: DHd2022 - [Barcamp Headlines & Highlights](https://doi.org/10.5281/zenodo.6328151)
 
 **2021**  
 * 11.–12. November 2021: [Korpusbildung-Workshop](https://dhd-ag-zz.github.io/workshops/2021-11_korpusbildung)
