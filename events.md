@@ -4,7 +4,7 @@ description: Aktivitäten
 ---
 
 # Aktuelles
-* Workshopreihe "Reuse rund um digitalisierte Zeitungen & Zeitschriften" 
+* Workshopreihe "Reuse rund um digitalisierte Zeitungen & Zeitschriften": Bericht zum ersten Treffen [hier](workshops/reuse-WS1bericht.md)
 * Online Reihe "Zeitungen & Zeitschriften in der (DH-)Lehre"
 * Restrukturierung der AG Webseite
 * Aufbau und Einbinden einer [Zotero Bibliographie](https://www.zotero.org/groups/4472460/dhdagzz)
