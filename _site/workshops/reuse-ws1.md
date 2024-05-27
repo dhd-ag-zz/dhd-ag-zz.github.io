@@ -3,10 +3,10 @@
 
 Die von 2023-2024 stattfindende Reihe zielt darauf ab, Re-Use rund um digitalisierte Zeitungen und Zeitschriften zu erforschen und zu fördern, indem sowohl bestehende, wiederverwendbare Ressourcen offengelegt als auch Nachnutzungspraktiken und -workflows kritisch hinterfragt werden. Vor diesem Hintergrund werden sowohl theoretische Konzeptdiskussionen als auch praktische Anwendungsmöglichkeiten durch eine Mischung aus Vorträgen, Diskussionsrunden und Hackathon-Formaten miteinbezogen. Insgesamt beleuchten vier Workshops jeweils spezifische Aspekte:
 
-* 1. Wiederverwendung verstehen (Darmstadt, Mai 2024): Vertiefung des Konzeptverständnisses von Re-Use speziell für historische Zeitungen im deutschsprachigen Kontext
-* 2. Summer School zur digitalen Analyse digitalisierter Zeitungen & Zeitschriften: Re-Use bestehender Infrastrukturen und Tools (Zürich, September 2024) 
-* 3. KI-Modelle in Aktion (Wien, Mai 2025): Einsatz von KI-Methoden für historische Zeitungen und Zeitschriften
-* 4. Silos aufbrechen (Belval/Luxemburg, Herbst 2025): Visionäre Zukunftsszenarien jenseits nationaler Grenzen
+1. Wiederverwendung verstehen (Darmstadt, Mai 2024): Vertiefung des Konzeptverständnisses von Re-Use speziell für historische Zeitungen im deutschsprachigen Kontext
+2. Summer School zur digitalen Analyse digitalisierter Zeitungen & Zeitschriften: Re-Use bestehender Infrastrukturen und Tools (Zürich, September 2024)
+3. KI-Modelle in Aktion (Wien, Mai 2025): Einsatz von KI-Methoden für historische Zeitungen und Zeitschriften
+4. Silos aufbrechen (Belval/Luxemburg, Herbst 2025): Visionäre Zukunftsszenarien jenseits nationaler Grenzen
 
 Das Programm in Darmstadt begann mit einer Präsentation verschiedener digitaler Zeitungssammlungen, nämlich von [zeit.punktNRW](https://zeitpunkt.nrw), präsentiert durch Stefanie Läpke, [e-newspaperarchives.ch](https://www.e-newspaperarchives.ch), präsentiert von Jesko Reiling, dem Bonn Newspaper Dataset der Kölnischen Zeitung, präsentiert von Kara Kuebart, der [Impresso-Sammlung](https://impresso-project.ch), präsentiert von Estelle Bunout, dem [Presseausschnittarchivs des Herder-Instituts](https://www.herder-institut.de/pressesammlung), präsentiert von Cristina Vertan und dem [Deutschen Zeitungsportal](https://www.deutsche-digitale-bibliothek.de/newspaper), präsentiert von Lisa Landes.
 
