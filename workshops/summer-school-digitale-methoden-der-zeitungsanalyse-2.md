@@ -6,6 +6,8 @@
 
 **Anmeldung hier:**
 
+![banner](https://https://github.com/dhd-ag-zz/dhd-ag-zz.github.io/images/sea-of-newspapers.jpg)
+
 # Programm der Summer School
 
 ## Donnerstag, 28.08.2025 - Online-Vorbereitung auf Summer School
