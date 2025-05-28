@@ -45,7 +45,7 @@ Mit „digiPress“ verfügt die Bayerische Staatsbibliothek (BSB) über ein eig
 
 **12:30-14:00 - Mittagspause**
 
-**14:00-17:30 -**<br>
+**14:00-17:30 - Digitales Arbeiten mit Bildern in historischen Zeitungen und Zeitschriften**<br>
 *Johanna Störiko*
 
 <p style="text-align: justify;">
@@ -56,19 +56,15 @@ In dieser Einheit lernen die Teilnehmenden, automatisiert auf digitale Bildersam
 
 *17:30-18:00 - Pause*
 
-**18:00-19:30 - Panel**<br>
+**18:00-19:30 - Panel "..."**<br>
 
-Abstract
-
-Bio
+[Abstracts folgen]
 
 ## Freitag, 05.09.2025 - Tag 2
 **09:00-12:30 OCR4all**<br>
 *Florian Langhanki*
 
-Abstract
-
-Bio
+[Abstract folgt]
 
 *12:30-14:00 - Mittagspause*
 
@@ -85,3 +81,4 @@ The workshop is organised by the interdisciplinary research project Impresso Med
 
 **18:00-19:30 - Bring your Project & informeller Ausklang im Retro Computing Lab**
 
+[Abstract folgt]
