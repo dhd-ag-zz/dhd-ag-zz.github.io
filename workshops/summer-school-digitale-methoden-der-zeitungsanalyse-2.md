@@ -2,11 +2,9 @@
 
 **Datum:** 4.–5. September 2025<br>
 **Veranstaltungsort:** Universität Würzburg (Präsenzveranstaltung)<br>
-**Organisation:** Kooperation von Universität Würzburg und AG "Zeitungen & Zeitschriften" des Verbands "Digital Humanities im deutschsprachigen Raum" (Organisationsteam: Torsten Roeder, Sarah Oberbichler, Johanna Störiko, Nina C. Rastinger)
+**Organisation:** Kooperation zwischen AG "Zeitungen & Zeitschriften" des Verbands "Digital Humanities im deutschsprachigen Raum" & Universität Würzburg (Organisationsteam: Torsten Roeder, Sarah Oberbichler, Johanna Störiko, Nina C. Rastinger)
 
 **Anmeldung hier:**
-
-![banner](https://https://github.com/dhd-ag-zz/dhd-ag-zz.github.io/images/sea-of-newspapers.jpg)
 
 # Programm der Summer School
 
