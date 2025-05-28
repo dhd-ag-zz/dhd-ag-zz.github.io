@@ -15,7 +15,7 @@
 
 <p style="text-align: justify;">
 Jupyter Notebooks bieten Geisteswissenschaftler*innen neue Möglichkeiten für digitale Forschungsmethoden und die transparente Dokumentation von Analyseprozessen. Diese Online-Einführung vermittelt spezifisch auf geisteswissenschaftliche Fragestellungen zugeschnittene Kompetenzen im Umgang mit Jupyter Notebooks. Die Einführung nutzt Google Colab als browserbasierte, installationsfreie Plattform und führt systematisch in die Benutzeroberfläche ein. Teilnehmende lernen den Umgang mit Code-Zellen, Markdown-Zellen und die Integration von Text, Code und Visualisierungen in einem gemeinsamen Dokument kennen und praktische Übungen mit geisteswissenschaftlichen Anwendungsszenarien. Die Einführung richtet sich an Teilnehmende mit und ohne Programmiererfahrung.
-</p><br>
+</p>
 
 <p style="text-align: justify;">
 <strong>Sarah Oberbichler</strong> ist wissenschaftliche Mitarbeiterin am DH Lab des Leibniz-Instituts für Europäische Geschichte in Mainz, mit interdisziplinärer Expertise in den Bereichen historische Migrationsforschung, Umweltstudien, transnationale Medienstudien, NLP und kritische KI-Forschung. In ihrem aktuellen Habilitationsprojekt untersucht sie transnationale Nachrichtenströme über Sprach- und Landesgrenzen hinweg anhand von Fallstudien zu Naturkatastrophen und Migration. Oberbichler ist Autorin zweier Monographien und ihre Arbeit hat internationale Anerkennung erhalten.
@@ -38,14 +38,10 @@ Mit „digiPress“ verfügt die Bayerische Staatsbibliothek (BSB) über ein eig
 <p style="text-align: justify;">
 <strong>Ortwin Guhling</strong> studierte in Freiburg und Würzburg Biologie. Nach Promotion und Bibliotheksreferendariat ist er seit 2007 an der Bayerischen Staatsbibliothek als Erwerbungsreferent für Zeitschriften und elektronische Medien tätig. Mittlerweile leitet er das Referat Periodika, in dem auch die Zeitungssammlung der Bayerischen Staatsbibliothek betreut wird, in der Abteilung Bestandsentwicklung und Erschließung 2.</p>
 
-**10:30-11:00 - Kaffeepause**
+*10:30-11:00 - Kaffeepause*
 
 **11:00-12:30 - Metadatenanalyse am Beispiel von digiPress & ZDB**<br>
 *Nina C. Rastinger*
-
-Abstract
-
-Bio
 
 **12:30-14:00 - Mittagspause**
 
@@ -58,7 +54,7 @@ In dieser Einheit lernen die Teilnehmenden, automatisiert auf digitale Bildersam
 <p style="text-align: justify;">
 <strong>Johanna Störiko</strong> ist studierte Informatikerin mit Schwerpunkt Digital Humanities. Im Rahmen ihres Dissertationsprojekts zur digitalen Edition von Werbeanzeigen der Jahrhundertwende beschäftigt sie sich mit Modellen der Computer Vison, Vektordatenbanken und der Entwicklung von nützlichen Tools für die historische Arbeit mit digitalisierten Bildern. Seit 2025 arbeitet Johanna Störiko im Projekt Germania Sacra der Niedersächsischen Akademie der Wissenschaften zu Göttingen und widmet sich dort ihrem zweiten Interessensschwerpunkt - dem Semantic Web.</p>
 
-**17:30-18:00 - Pause**
+*17:30-18:00 - Pause*
 
 **18:00-19:30 - Panel**<br>
 
@@ -74,7 +70,7 @@ Abstract
 
 Bio
 
-**12:30-14:00 - Mittagspause**
+*12:30-14:00 - Mittagspause*
 
 **14:00-17:30 - Introducing the Impresso Datalab for the joint exploration and analysis of multilingual historical newspaper and radio collections**<br>
 *Marten Düring*
@@ -85,9 +81,7 @@ The workshop is organised by the interdisciplinary research project Impresso Med
 <p style="text-align: justify;">
 <strong>Marten Düring</strong> ist promovierter Historiker und arbeitet als Assistant Professor in Digital History am Luxembourg Centre for Contemporary and Digital History (C2DH). Er ist Gründungsmitglied der Historical Network Research Community und Mitherausgeber des Journal of Historical Network Research. Seit 2016 leitet er als Co-Direktor das interdisziplinäre Impresso-Projekt, das an der Schnittstelle von NLP, Design und Geschichtsforschung an neuen Methoden für die datengetriebene Erforschung historischer Zeitungs- und Radioquellen arbeitet.</p>
 
-**17:30-18:00 - Pause**
+*17:30-18:00 - Pause*
 
 **18:00-19:30 - Bring your Project & informeller Ausklang im Retro Computing Lab**
-
-Abstract
 
