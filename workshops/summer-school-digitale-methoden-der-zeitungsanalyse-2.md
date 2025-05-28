@@ -1,13 +1,18 @@
-# Summer School “Digitale Methoden der Zeitungsanalyse, 2. Auflage” - Programm
+# Programm der Summer School “Digitale Methoden der Zeitungsanalyse, 2. Auflage”
 
 ## Vorbereitung auf Summer School (online)
 
 **28.08.2025 (10:00 - 12:00) - Online-Einführung Jupyter Notebooks**
+
 *Sarah Oberbichler*
 
+<div style="text-align: justify;">
 Jupyter Notebooks bieten Geisteswissenschaftler*innen neue Möglichkeiten für digitale Forschungsmethoden und die transparente Dokumentation von Analyseprozessen. Diese Online-Einführung vermittelt spezifisch auf geisteswissenschaftliche Fragestellungen zugeschnittene Kompetenzen im Umgang mit Jupyter Notebooks. Die Einführung nutzt Google Colab als browserbasierte, installationsfreie Plattform und führt systematisch in die Benutzeroberfläche ein. Teilnehmende lernen den Umgang mit Code-Zellen, Markdown-Zellen und die Integration von Text, Code und Visualisierungen in einem gemeinsamen Dokument kennen und praktische Übungen mit geisteswissenschaftlichen Anwendungsszenarien. Die Einführung richtet sich an Teilnehmende mit und ohne Programmiererfahrung.
+</div>
 
+<div style="text-align: justify;">
 **Sarah Oberbichler** ist wissenschaftliche Mitarbeiterin am DH Lab des Leibniz-Instituts für Europäische Geschichte in Mainz, mit interdisziplinärer Expertise in den Bereichen historische Migrationsforschung, Umweltstudien, transnationale Medienstudien, NLP und kritische KI-Forschung. In ihrem aktuellen Habilitationsprojekt untersucht sie transnationale Nachrichtenströme über Sprach- und Landesgrenzen hinweg anhand von Fallstudien zu Naturkatastrophen und Migration. Oberbichler ist Autorin zweier Monographien und ihre Arbeit hat internationale Anerkennung erhalten.
+</div>
 
 ## Mittwoch, 03.09.2025 
 
@@ -15,9 +20,11 @@ Jupyter Notebooks bieten Geisteswissenschaftler*innen neue Möglichkeiten für d
 
 ## Donnerstag, 04.09.2025
 **09:00-09:30 - Willkommen und Kennenlernen**
+
 *Torsten Roeder, Sarah Oberbichler, Johanna Störiko, Nina C. Rastinger*
 
 **09:30-10:30 - digiPress - Das Zeitungsportal der Bayerischen Staatsbibliothek**
+
 *Ortwin Guhling*
 
 Mit „digiPress“ verfügt die Bayerische Staatsbibliothek (BSB) über ein eigenes Portal für ihren digitalisierten historischen Zeitungsbestand. Ausgehend von einer kurzen Vorstellung der umfangreichen Zeitungssammlung der BSB wird zunächst das inhaltliche Konzept der Zeitungsdigitalisierung an der Bayerischen Staatsbibliothek vorgestellt. Daraufhin wird „digiPress“ mit seinem Funktionsumfang und verschiedenen Sucheinstiegsmöglichkeiten anhand von Beispielen präsentiert. Dabei werden Besonderheiten der Online-Präsentation und -Erschließung von Zeitungen erläutert. In diesem Zusammenhang sollen sowohl konkrete Nutzungsmöglichkeiten als auch die Grenzen der Auswertungsoptionen aufgezeigt werden. Beleuchtet werden in diesem Zusammenhang z. B. Qualitätsaspekte von Volltextdaten wie auch Ansätze zur Tiefenerschließung von Zeitungsinhalten, etwa im Hinblick auf behandelte Personen, Orte oder Themen.
@@ -27,6 +34,7 @@ Mit „digiPress“ verfügt die Bayerische Staatsbibliothek (BSB) über ein eig
 **10:30-11:00 - Kaffeepause**
 
 **11:00-12:30 - Metadatenanalyse am Beispiel von digiPress & ZDB**
+
 *Nina C. Rastinger*
 
 Abstract
@@ -36,6 +44,7 @@ Bio
 **12:30-14:00 - Mittagspause**
 
 **14:00-17:30 -** 
+
 *Johanna Störiko*
 
 Abstract
@@ -52,6 +61,7 @@ Bio
 
 ## Freitag, 05.09.2025 
 **09:00-12:30 OCR4all**
+
 *Florian Langhanki*
 
 Abstract
