@@ -47,7 +47,7 @@ Mit „digiPress“ verfügt die Bayerische Staatsbibliothek (BSB) über ein eig
 </p>
 
 <p style="text-align: justify;">
-<strong>Nina C. Rastinger</strong> ist DOC-Stipendiatin am Austrian Centre for Digital Humanities Cultural Heritage, wo sie bereits an verschiedenen Forschungs- und Infrastrukturprojekten beteiligt war und der Abteilung “Literary & Print Culture Studies” angehört. Aktuell widmet sie sich in ihrem Doktoratsprojekt der Identifikation und Analyse von periodisch publizierten Listen in Zeitungen und Intelligenzblättern zwischen 1600 und 1850. Ebenfalls zu ihren Interessensbereichen zählen u.a. frühneuzeitliche Gebrauchstexte, NLP und LLMs.</p>
+<strong>Nina C. Rastinger</strong> hat Deutsche Philologie und Psychologie studiert und ist DOC-Stipendiatin am Austrian Centre for Digital Humanities Cultural Heritage, wo sie bereits an verschiedenen Forschungs- und Infrastrukturprojekten beteiligt war und der Abteilung “Literary & Print Culture Studies” angehört. Aktuell widmet sie sich in ihrem Doktoratsprojekt der Identifikation und Analyse von periodisch publizierten Listen in Zeitungen und Intelligenzblättern zwischen 1600 und 1850. Ebenfalls zu ihren Interessensbereichen zählen u.a. frühneuzeitliche Gebrauchstexte, NLP und LLMs.</p>
 
 **12:30-14:00 - Mittagspause**
 
