@@ -4,7 +4,7 @@
 **Veranstaltungsort:** Universität Würzburg (Präsenzveranstaltung)<br>
 **Organisation:** Kooperation zwischen AG "Zeitungen & Zeitschriften" des Verbands "Digital Humanities im deutschsprachigen Raum" & Universität Würzburg (Organisationsteam: Torsten Roeder, Sarah Oberbichler, Johanna Störiko, Nina C. Rastinger)
 
-**Anmeldung hier (Deadline: 20. Juli 2025):**
+**Anmeldung hier (Deadline: 20. Juli 2025):* https://forms.gle/QZ1KimECJJDN2XhP7
 
 # Programm der Summer School
 
@@ -40,7 +40,7 @@ Mit „digiPress“ verfügt die Bayerische Staatsbibliothek (BSB) über ein eig
 
 *10:30-11:00 - Kaffeepause*
 
-**11:00-12:30 - Metadatenanalyse am Beispiel von digiPress & ZDB**<br>
+**11:00-12:30 - Metadatenanalyse am Beispiel von digiPress & Zeitschriftendatenbank**<br>
 *Nina C. Rastinger*
 
 <p style="text-align: justify;">Anhand des Portals digiPress soll in der Hands-On-Session exemplarisch gezeigt werden, wie Webcrawler zum Sammeln von Metadaten eingesetzt werden können, wenn für Zeitungssammlungen (noch) keine APIs oder Sammeldownloads zur Verfügung stehen. Genutzt werden hierfür über ein Jupyter Notebook die Python-Bibliotheken BeautifulSoup, requests und pandas. Aufbauend auf den gesammelten Metadaten soll dann gezeigt werden, wie mithilfe von Visualisierungen ein Überblick über große Datensätze gewonnen werden kann, indem zeitliche oder räumliche Muster sichtbar gemacht werden. Zudem wird ein wichtiger Referenzpunkt für die Arbeit mit historischen Periodika vorgestellt, nämlich die von der Staatsbibliothek zu Berlin und der Deutschen Nationalbibliothek bereitgestellte Zeitschriftendatenbank (ZDB). Über die dort verfügbaren Schnittstellen können anhand der in digiPress und anderen Portalen enthaltenen Identifier (ZDB-IDs) automatisiert zusätzliche Metadaten (z.B. Erscheinungsform, Vorgänger, Nachfolger, Beilagen) abgefragt werden. Programmierkenntnisse (Python) können für die Einheit hilfreich sein, sind aber keine Voraussetzung.
@@ -48,7 +48,6 @@ Mit „digiPress“ verfügt die Bayerische Staatsbibliothek (BSB) über ein eig
 
 <p style="text-align: justify;">
 <strong>Nina C. Rastinger</strong> ist DOC-Stipendiatin am Austrian Centre for Digital Humanities Cultural Heritage, wo sie bereits an verschiedenen Forschungs- und Infrastrukturprojekten beteiligt war und der Abteilung “Literary & Print Culture Studies” angehört. Aktuell widmet sie sich in ihrem Doktoratsprojekt der Identifikation und Analyse von periodisch publizierten Listen in Zeitungen und Intelligenzblättern zwischen 1600 und 1850. Ebenfalls zu ihren Interessensbereichen zählen u.a. frühneuzeitliche Gebrauchstexte, NLP und LLMs.</p>
-
 
 **12:30-14:00 - Mittagspause**
 
