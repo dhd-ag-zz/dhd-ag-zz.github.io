@@ -4,7 +4,7 @@
 **Veranstaltungsort:** Universität Würzburg (Präsenzveranstaltung)<br>
 **Organisation:** Kooperation zwischen AG "Zeitungen & Zeitschriften" des Verbands "Digital Humanities im deutschsprachigen Raum" & Universität Würzburg (Organisationsteam: Torsten Roeder, Sarah Oberbichler, Johanna Störiko, Nina C. Rastinger)
 
-**Anmeldung hier (Deadline: 20. Juli 2025):* https://forms.gle/QZ1KimECJJDN2XhP7
+**Anmeldung hier (Deadline: 20. Juli 2025):** [https://forms.gle/QZ1KimECJJDN2XhP7](https://forms.gle/QZ1KimECJJDN2XhP7)
 
 # Programm der Summer School
 
