@@ -100,7 +100,7 @@ Digitale Periodika existieren in größerer Menge bereits seit den 1980er Jahren
 Computerzeitschriften der 1980er Jahre enthielten neben vielen typischen Spiele-Rezensionen auch sogenannte Longplays. Darin beschrieben Spieler ihre Erlebnisse, wenn sie ein Spiel von Anfang bis Ende “durchspielen”. Anders als bei auf Effizienz optimierten Walkthroughs fließen auch herbe Fehlschläge und strapazierte Frustrationsgrenzen in die Beschreibungen wortreich ein. Im weit verbreiteten 64’er Magazin (1984–1999) wurden über 50 Longplays veröffentlicht, die wie kaum eine andere Quelle Einblicke in das zeitgenössische Spielerlebnis geben. Am Beispiel des Longplays zu “The Last Ninja” (System 3, 1987) wird ausgelotet, inwieweit eine digitale Edition der Longplays mit Videos und Emulationen der beschriebenen Spielsituationen verbunden werden kann.</p>
 
 <p style="text-align: justify;">
-<strong>Julia Boden</strong> hat Digital Humanities in Würzburg studiert und mit ihrer Bachelor-Thesis über die multimodale digitale Edition des “The Last Ninja”-Longplays abgeschlossen. In einem Digital-Humanities-Projekt befasste sie sich mit der typographischen Edition des Diskettenmagazins “Action News”.</p>
+<strong>Julia Boden</strong> studiert Digital Humanities und Political and Social Studies in Würzburg studiert und befasst sich in ihrer Bachelor-Thesis mit einer multimodalen digitalen Edition des “The Last Ninja”-Longplays. In einem Digital-Humanities-Projekt befasste sie sich mit der typographischen digitalen Edition des Diskettenmagazins “Action News”.</p>
 
 ## Freitag, 05.09.2025 - Tag 2
 **09:00-12:30 OCR4all**<br>
