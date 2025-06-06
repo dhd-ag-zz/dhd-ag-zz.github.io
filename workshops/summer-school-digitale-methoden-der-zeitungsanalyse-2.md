@@ -1,16 +1,18 @@
 # Summer School “Digitale Methoden der Zeitungsanalyse, 2. Auflage”
 
 **Datum:** 4.–5. September 2025<br>
-**Veranstaltungsort:** Universität Würzburg (Präsenzveranstaltung)<br>
-**Organisation:** Kooperation zwischen AG "Zeitungen & Zeitschriften" des Verbands "Digital Humanities im deutschsprachigen Raum" & Universität Würzburg (Organisationsteam: Sarah Oberbichler, Johanna Störiko, Nina C. Rastinger, Torsten Roeder (Local Organizer))
+**Veranstaltungsort:** Universität Würzburg (Präsenzveranstaltung), Zentrum für Philologie und Digitalität<br>
+**Organisation:** Kooperation zwischen AG "Zeitungen & Zeitschriften" des Verbands "Digital Humanities im deutschsprachigen Raum" & Universität Würzburg
+
+Organisationsteam: Sarah Oberbichler, Johanna Störiko, Nina C. Rastinger, Torsten Roeder (Local Organizer)
 
 **Anmeldung hier (Deadline: 20. Juli 2025):** [https://forms.gle/QZ1KimECJJDN2XhP7](https://forms.gle/QZ1KimECJJDN2XhP7)
 
 # Programm der Summer School
 
-## Donnerstag, 28.08.2025 - Online-Vorbereitung auf Summer School
+## Donnerstag, 28.08.2025 – Online-Vorbereitung auf Summer School
 
-**28.08.2025 (10:00 - 12:00) - Online-Einführung Jupyter Notebooks**<br>
+**10:00–12:00 – Einführung Jupyter Notebooks**<br>
 *Sarah Oberbichler*
 
 <p style="text-align: justify;">
@@ -21,15 +23,16 @@ Jupyter Notebooks bieten Geisteswissenschaftler*innen neue Möglichkeiten für d
 <strong>Sarah Oberbichler</strong> ist wissenschaftliche Mitarbeiterin am DH Lab des Leibniz-Instituts für Europäische Geschichte in Mainz, mit interdisziplinärer Expertise in den Bereichen historische Migrationsforschung, Umweltstudien, transnationale Medienstudien, NLP und kritische KI-Forschung. In ihrem aktuellen Habilitationsprojekt untersucht sie transnationale Nachrichtenströme über Sprach- und Landesgrenzen hinweg anhand von Fallstudien zu Naturkatastrophen und Migration. Oberbichler ist Autorin zweier Monographien und ihre Arbeit hat internationale Anerkennung erhalten.
 </p>
 
-## Mittwoch, 03.09.2025 - Vortag
+## Mittwoch, 03.09.2025
 
-**19:00: Gemeinsames Abendessen (Selbstzahlerbasis)**
+**19:00 – Gemeinsames Abendessen (Selbstzahlerbasis)**
 
-## Donnerstag, 04.09.2025 - Tag 1
-**09:00-09:30 - Willkommen und Kennenlernen**<br>
+## Donnerstag, 04.09.2025
+
+**09:00–09:30 – Willkommen und Kennenlernen**<br>
 *Torsten Roeder, Sarah Oberbichler, Johanna Störiko, Nina C. Rastinger*
 
-**09:30-10:30 - digiPress - Das Zeitungsportal der Bayerischen Staatsbibliothek**<br>
+**09:30–10:30 – digiPress - Das Zeitungsportal der Bayerischen Staatsbibliothek**<br>
 *Ortwin Guhling*
 
 <p style="text-align: justify;">
@@ -38,9 +41,9 @@ Mit „digiPress“ verfügt die Bayerische Staatsbibliothek (BSB) über ein eig
 <p style="text-align: justify;">
 <strong>Ortwin Guhling</strong> studierte in Freiburg und Würzburg Biologie. Nach Promotion und Bibliotheksreferendariat ist er seit 2007 an der Bayerischen Staatsbibliothek als Erwerbungsreferent für Zeitschriften und elektronische Medien tätig. Mittlerweile leitet er das Referat Periodika, in dem auch die Zeitungssammlung der Bayerischen Staatsbibliothek betreut wird, in der Abteilung Bestandsentwicklung und Erschließung 2.</p>
 
-*10:30-11:00 - Kaffeepause*
+*10:30–11:00 – Kaffeepause*
 
-**11:00-12:30 - Metadatenanalyse am Beispiel von digiPress & Zeitschriftendatenbank**<br>
+**11:00–12:30 – Metadatenanalyse am Beispiel von digiPress & Zeitschriftendatenbank**<br>
 *Nina C. Rastinger*
 
 <p style="text-align: justify;">Anhand des Portals digiPress soll in der Hands-On-Session exemplarisch gezeigt werden, wie Webcrawler zum Sammeln von Metadaten eingesetzt werden können, wenn für Zeitungssammlungen (noch) keine APIs oder Sammeldownloads zur Verfügung stehen. Genutzt werden hierfür über ein Jupyter Notebook die Python-Bibliotheken BeautifulSoup, requests und pandas. Aufbauend auf den gesammelten Metadaten soll dann gezeigt werden, wie mithilfe von Visualisierungen ein Überblick über große Datensätze gewonnen werden kann, indem zeitliche oder räumliche Muster sichtbar gemacht werden. Zudem wird ein wichtiger Referenzpunkt für die Arbeit mit historischen Periodika vorgestellt, nämlich die von der Staatsbibliothek zu Berlin und der Deutschen Nationalbibliothek bereitgestellte Zeitschriftendatenbank (ZDB). Über die dort verfügbaren Schnittstellen können anhand der in digiPress und anderen Portalen enthaltenen Identifier (ZDB-IDs) automatisiert zusätzliche Metadaten (z.B. Erscheinungsform, Vorgänger, Nachfolger, Beilagen) abgefragt werden. Programmierkenntnisse (Python) können für die Einheit hilfreich sein, sind aber keine Voraussetzung.
@@ -49,9 +52,9 @@ Mit „digiPress“ verfügt die Bayerische Staatsbibliothek (BSB) über ein eig
 <p style="text-align: justify;">
 <strong>Nina C. Rastinger</strong> hat Deutsche Philologie und Psychologie studiert und ist DOC-Stipendiatin am Austrian Centre for Digital Humanities Cultural Heritage, wo sie bereits an verschiedenen Forschungs- und Infrastrukturprojekten beteiligt war und der Abteilung “Literary & Print Culture Studies” angehört. Aktuell widmet sie sich in ihrem Doktoratsprojekt der Identifikation und Analyse von periodisch publizierten Listen in Zeitungen und Intelligenzblättern zwischen 1600 und 1850. Ebenfalls zu ihren Interessensbereichen zählen u.a. frühneuzeitliche Gebrauchstexte, NLP und LLMs.</p>
 
-**12:30-14:00 - Mittagspause**
+**12:30–14:00 – Mittagspause**
 
-**14:00-17:30 - Digitales Arbeiten mit Bildern in historischen Zeitungen und Zeitschriften**<br>
+**14:00–17:30 – Digitales Arbeiten mit Bildern in historischen Zeitungen und Zeitschriften**<br>
 *Johanna Störiko*
 
 <p style="text-align: justify;">
@@ -60,14 +63,14 @@ In dieser Einheit lernen die Teilnehmenden, automatisiert auf digitale Bildersam
 <p style="text-align: justify;">
 <strong>Johanna Störiko</strong> ist studierte Informatikerin mit Schwerpunkt Digital Humanities. Im Rahmen ihres Dissertationsprojekts zur digitalen Edition von Werbeanzeigen der Jahrhundertwende beschäftigt sie sich mit Modellen der Computer Vison, Vektordatenbanken und der Entwicklung von nützlichen Tools für die historische Arbeit mit digitalisierten Bildern. Seit 2025 arbeitet Johanna Störiko im Projekt Germania Sacra der Niedersächsischen Akademie der Wissenschaften zu Göttingen und widmet sich dort ihrem zweiten Interessensschwerpunkt - dem Semantic Web.</p>
 
-*17:30-18:00 - Pause*
+*17:30–18:00 – Pause*
 
-**18:00-19:30 - Panel "Text & Bild in der Zeitschriftenkultur des 20. Jahrhundert"**<br>
+**18:00–19:30 – Panel "Text & Bild in der Zeitschriftenkultur des 20. Jahrhundert"**<br>
 
 <p style="text-align: justify;">
 In der Zeitschriftenforschung fällt dem Text-Bild-Verhältnis oft eine besondere Rolle zu. Aktuelle Projekte untersuchen dies u.a. anhand verschiedener Ausprägungen der Zeitschriftenkultur des 20. Jahrhundert. Das Panel stellt drei Projekte aus diesem Bereich vor, die im Umfeld des Zentrums für Philologie und Digitalität entstanden sind.</p>
 
-**(1) Fotogedichte** *- Tomash Shtohryn*
+**(1) Fotogedichte** – *Tomash Shtohryn*
 
 <p style="text-align: justify;">
 Wenn man eine geisteswissenschaftliche Datenbank veröffentlichen möchte, wird oft die MediaWiki-Software als eine der bestmöglichen Lösungen für diesen Zweck betrachtet. Zusammen mit der Erweiterung “Semantic MediaWiki” und einer Reihe weiterer Plugins ist MediaWiki de facto Standard für Projekte, in deren Beschreibungen die Begriffe “Datenbank” oder “Digital Humanities” vorkommen. Doch ist dieses ungeschriebene Gesetz noch zeitgemäß?
@@ -77,7 +80,7 @@ Insbesondere vor dem Hintergrund, dass je nach Projekt die MediaWiki-Software an
 <p style="text-align: justify;">
 <strong>Tomash Shtohryn</strong> hat sein Studium in Fächern Political and Social Studies und Digital Humanities als Nebenfach absolviert. Während des Masterstudiums machte er die Digital Humanities zu seinem Hauptfach und ist aktuell wissenschaftlicher Mitarbeiter am Zentrum für Philologie und Digitalität an der Universität Würzburg. Hier ist er an mehreren Forschungsprojekten beteiligt, deren Schwerpunkt auf der Erstellung von Digitalen Editionen oder vollwertigen interaktiven Ressourcen auf Basis einer Datenbank liegt.</p>
 
-**(2) Das Neue Universum** *- Johannes Leitgeb*
+**(2) Das Neue Universum** – *Johannes Leitgeb*
 
 <p style="text-align: justify;">
 Das Jahrbuch Das Neue Universum (DNU) ist ein seltener Fall historischer Kontinuität: Seit der ersten Publikation im Jahr 1880 erscheint die Reihe bis heute fortlaufend und versammelt faktuale und fiktionale Texte zum Themenfeld Technik und Technologie. Wissenschaftliche Beachtung hat das Jahrbuch bisher jedoch kaum erfahren; auch eine erschließende Digitalisierung der über 120 Bände hat noch nicht stattgefunden. Der Fokus dieses Vortrags liegt einerseits auf der Präsentation der Publikationsgeschichte des DNU und andererseits auf der Analyse ausgewählter Texte aus dem Themenfeld der ab 1950 diskutierten digitalen Technologie. Dabei werden die für das Jahrbuch charakteristischen Techniken ermittelt, in denen neuralgische Schnittpunkte zwischen Faktualität und Fiktionalität sowie zwischen Text und Bild erkennbar sind.</p>
@@ -85,7 +88,7 @@ Das Jahrbuch Das Neue Universum (DNU) ist ein seltener Fall historischer Kontinu
 <p style="text-align: justify;">
 <strong>Johannes Leitgeb</strong> hat Germanistik und Digital Humanities in Würzburg studiert und ist dort aktuell als wissenschaftlicher Mitarbeiter am Lehrstuhl für Neuere deutsche Literaturgeschichte tätig. In seiner Forschung beschäftigt er sich insbesondere mit der Schnittstelle zwischen Literatur und Technik. So hat er in seiner MA-Thesis Das Neue Universum hinsichtlich der Darstellung von Computern, Robotern und Künstlicher Intelligenz untersucht.</p>
 
-**(3) Longplay: The Last Ninja** *- Julia Boden*
+**(3) Longplay: The Last Ninja** – *Julia Boden*
 
 <p style="text-align: justify;">
 Computerzeitschriften der 1980er Jahre enthielten neben vielen typischen Spiele-Rezensionen auch sogenannte Longplays. Darin beschrieben Spieler ihre Erlebnisse, wenn sie ein Spiel von Anfang bis Ende “durchspielen”. Anders als bei auf Effizienz optimierten Walkthroughs fließen auch herbe Fehlschläge und strapazierte Frustrationsgrenzen in die Beschreibungen wortreich ein. Im weit verbreiteten 64’er Magazin (1984–1999) wurden über 50 Longplays veröffentlicht, die wie kaum eine andere Quelle Einblicke in das zeitgenössische Spielerlebnis geben. Am Beispiel des Longplays zu “The Last Ninja” (System 3, 1987) wird ausgelotet, inwieweit eine digitale Edition der Longplays mit Videos und Emulationen der beschriebenen Spielsituationen verbunden werden kann.</p>
@@ -93,8 +96,9 @@ Computerzeitschriften der 1980er Jahre enthielten neben vielen typischen Spiele-
 <p style="text-align: justify;">
 <strong>Julia Boden</strong> studiert Digital Humanities und Political and Social Studies in Würzburg studiert und befasst sich in ihrer Bachelor-Thesis mit einer multimodalen digitalen Edition des “The Last Ninja”-Longplays. In einem Digital-Humanities-Projekt befasste sie sich mit der typographischen digitalen Edition des Diskettenmagazins “Action News”.</p>
 
-## Freitag, 05.09.2025 - Tag 2
-**09:00-12:30 OCR4all**<br>
+## Freitag, 05.09.2025
+
+**09:00–12:30 – OCR4all**<br>
 *Florian Langhanki*
 
 <p style="text-align: justify;">
@@ -104,9 +108,9 @@ Der Workshop wird allen Teilnehmenden die Gelegenheit geben, selbst mit LAREX zu
 <p style="text-align: justify;">
 <strong>Florian Langhanki</strong> ist studierter Germanist mit einem Schwerpunkt in der Mediävistik. Seit 2021 arbeitet er an der Forschungsstelle: DACHS im Zentrum für Philologie und Digitalität der Universität Würzburg und befasst sich hier vor allem mit der digitalen Texterschließung; mit dem gesamten Workflow vom digitalen Bild bis zum maschinenverarbeitbaren Text.</p>
 
-*12:30-14:00 - Mittagspause*
+*12:30–14:00 – Mittagspause*
 
-**14:00-17:30 - Introducing the Impresso Datalab for the joint exploration and analysis of multilingual historical newspaper and radio collections**<br>
+**14:00–17:30 – Introducing the Impresso Datalab for the joint exploration and analysis of multilingual historical newspaper and radio collections**<br>
 *Marten Düring*
 
 <p style="text-align: justify;">
@@ -115,6 +119,12 @@ The workshop is organised by the interdisciplinary research project Impresso Med
 <p style="text-align: justify;">
 <strong>Marten Düring</strong> ist promovierter Historiker und arbeitet als Assistant Professor in Digital History am Luxembourg Centre for Contemporary and Digital History (C2DH). Er ist Gründungsmitglied der Historical Network Research Community und Mitherausgeber des Journal of Historical Network Research. Seit 2016 leitet er als Co-Direktor das interdisziplinäre Impresso-Projekt, das an der Schnittstelle von NLP, Design und Geschichtsforschung an neuen Methoden für die datengetriebene Erforschung historischer Zeitungs- und Radioquellen arbeitet.</p>
 
-*17:30-18:00 - Pause*
+*17:30–18:00 – Pause*
 
-**18:00-19:30 - Bring your Project & informeller Ausklang im Retro Computing Lab**
+**18:00–19:30 – Bring your Project**
+
+Zum Abschluss des Workshops steht den Teilnehmenden Zeit zur Vorstellung eigener Projekte und Projektideen zur Verfügung, die in großer und kleiner Runde diskutiert werden können.
+
+**19:30 – Informeller Ausklang im Retro Computing Lab**
+
+Das Retro Computing Lab ist eine betriebsbereite Sammlung von historischen Computern zum Einsatz in Forschung und Lehre. Auf diesen Computern wurden bereits in den 1980er Jahren elektronische Zeitschriften produziert, die Texte und Bilder, aber auch Musik und Software enthielten. Bis in die 1990er Jahre wurden sie nicht etwa über das Netz, sondern auf Floppy Disks verbreitet. Ihr Erschließungszustand ist prekär, da digitale Medien lange nicht für wissenschaftliche Zwecke gesammelt und archiviert wurden. Besonders die multimodalen Formate stellen eine Herausforderung für die Erhaltung dar, denn Originalgeräte sind immer seltener vorhanden. Im Retro Computing Lab wird eine Auswahl von Magazinen wird zur lesenden und vor allem spielenden “Benutzung” angeboten.
