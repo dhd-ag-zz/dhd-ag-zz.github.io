@@ -85,16 +85,7 @@ Das Jahrbuch Das Neue Universum (DNU) ist ein seltener Fall historischer Kontinu
 <p style="text-align: justify;">
 <strong>Johannes Leitgeb</strong> hat Germanistik und Digital Humanities in Würzburg studiert und ist dort aktuell als wissenschaftlicher Mitarbeiter am Lehrstuhl für Neuere deutsche Literaturgeschichte tätig. In seiner Forschung beschäftigt er sich insbesondere mit der Schnittstelle zwischen Literatur und Technik. So hat er in seiner MA-Thesis Das Neue Universum hinsichtlich der Darstellung von Computern, Robotern und Künstlicher Intelligenz untersucht.</p>
 
-**(3) Diskettenmagazine** *- Torsten Roeder*
-
-<p style="text-align: justify;">
-Digitale Periodika existieren in größerer Menge bereits seit den 1980er Jahren. Bis in die 1990er Jahre wurden sie nicht etwa über das Netz, sondern auf Floppy Disks verbreitet. Die multimedialen Magazine enthielten Texte, Bilder, Animationen, Musik und vor allem auch Software. Ihr Erschließungszustand ist prekär, da digitale Medien lange nicht für wissenschaftliche Zwecke gesammelt und archiviert wurden. Besonders die multimodalen Formate stellen eine Herausforderung für die Erhaltung dar, denn Originalgeräte sind immer seltener vorhanden. Wie kann der notwendige technische und historische Kontext niederschwellig in eine Online-Präsentation eingebunden werden?</p>
-
-<p style="text-align: justify;">
-<strong>Torsten Roeder</strong> hat Musikwissenschaft und Italienisch studiert und sich währenddessen (zu) viel mit Computern beschäftigt. Er promovierte über die Musikkritik des 19. Jhs. in Musikzeitschriften und Tageszeitungen und ist heute am Zentrum für Philologie und Digitalität für digitale Editionsprojekte sowie für das Retro Computing Labor zuständig.</p>
-
-
-**(4) Longplay: The Last Ninja** *- Julia Boden*
+**(3) Longplay: The Last Ninja** *- Julia Boden*
 
 <p style="text-align: justify;">
 Computerzeitschriften der 1980er Jahre enthielten neben vielen typischen Spiele-Rezensionen auch sogenannte Longplays. Darin beschrieben Spieler ihre Erlebnisse, wenn sie ein Spiel von Anfang bis Ende “durchspielen”. Anders als bei auf Effizienz optimierten Walkthroughs fließen auch herbe Fehlschläge und strapazierte Frustrationsgrenzen in die Beschreibungen wortreich ein. Im weit verbreiteten 64’er Magazin (1984–1999) wurden über 50 Longplays veröffentlicht, die wie kaum eine andere Quelle Einblicke in das zeitgenössische Spielerlebnis geben. Am Beispiel des Longplays zu “The Last Ninja” (System 3, 1987) wird ausgelotet, inwieweit eine digitale Edition der Longplays mit Videos und Emulationen der beschriebenen Spielsituationen verbunden werden kann.</p>
