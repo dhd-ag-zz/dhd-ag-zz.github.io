@@ -2,7 +2,7 @@
 
 **Datum:** 4.–5. September 2025<br>
 **Veranstaltungsort:** Universität Würzburg (Präsenzveranstaltung)<br>
-**Organisation:** Kooperation zwischen AG "Zeitungen & Zeitschriften" des Verbands "Digital Humanities im deutschsprachigen Raum" & Universität Würzburg (Organisationsteam: Torsten Roeder, Sarah Oberbichler, Johanna Störiko, Nina C. Rastinger)
+**Organisation:** Kooperation zwischen AG "Zeitungen & Zeitschriften" des Verbands "Digital Humanities im deutschsprachigen Raum" & Universität Würzburg (Organisationsteam: Sarah Oberbichler, Johanna Störiko, Nina C. Rastinger, Torsten Roeder (Local Organizer))
 
 **Anmeldung hier (Deadline: 20. Juli 2025):** [https://forms.gle/QZ1KimECJJDN2XhP7](https://forms.gle/QZ1KimECJJDN2XhP7)
 
