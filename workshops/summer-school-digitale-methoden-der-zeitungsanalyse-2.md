@@ -6,7 +6,7 @@
 
 Organisationsteam: Sarah Oberbichler, Johanna Störiko, Nina C. Rastinger, Torsten Roeder (Local Organizer)
 
-**Anmeldung hier (Deadline: 20. Juli 2025):** [https://forms.gle/QZ1KimECJJDN2XhP7](https://forms.gle/QZ1KimECJJDN2XhP7)
+**Anmeldung hier (Deadline verlängert: 15. August 2025):** [https://forms.gle/QZ1KimECJJDN2XhP7](https://forms.gle/QZ1KimECJJDN2XhP7)
 
 # Programm der Summer School
 
