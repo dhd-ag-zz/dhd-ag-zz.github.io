@@ -4,12 +4,15 @@ description: Aktivitäten
 ---
 
 # Aktuelles
-* Workshopreihe "Reuse rund um digitalisierte Zeitungen & Zeitschriften": Bericht zum ersten Treffen [hier](workshops/reuse-WS1bericht.md). 
+* Online-Konferenz "Analyse digitalisierter Zeitungen mit KI - Projekte, Probleme, Perspektiven" am 12. November 2025 - Programm [hier](https://www.dortmund.de/themen/studium-wissenschaft-und-forschung/institut-fuer-zeitungsforschung/forschung-und-vermittlung/fachtagungen/analyse-digitalisierter-zeitungen-mit-ki/)
+* Summer School "Digitale Methoden der Zeitungsanalyse, 2. Auflage" an der Universität Würzburg von 4.-5. September 2025 - Details [hier](https://dhd-ag-zz.github.io/workshops/summer-school-digitale-methoden-der-zeitungsanalyse-2.html)
+* Konferenz "Zeitungen, Zeitschriften & KI-Modelle: Training & (Nach-)Nutzung in den Digital Humanities" am Austrian Centre for Digital Humanities in Wien von 7.-8. Mai 2025: Programm zur Nachlese [hier](https://www.oeaw.ac.at/de/acdh/newsevents/events/konferenz-zeitungen-zeitschriften-ki-modelle-training-und-nach-nutzung-in-den-digital-humanities)
+* Workshopreihe "Reuse rund um digitalisierte Zeitungen & Zeitschriften": Bericht zum ersten Workshop in Darmstadt [hier](workshops/reuse-WS1bericht.md)
 * Online Reihe "Zeitungen & Zeitschriften in der (DH-)Lehre"
 * Restrukturierung der AG Webseite
 * Aufbau und Einbinden einer [Zotero Bibliographie](https://www.zotero.org/groups/4472460/dhdagzz)
 
-Bei Interesse an einer Mitwirkung, bitte Kontakt mit den Konvenoren aufnehmen!
+Bei Interesse an einer Mitwirkung, bitte Kontakt mit den Convenors aufnehmen!
 
 # Vergangene Aktivitäten
 

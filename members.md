@@ -49,8 +49,6 @@ description: Mitglieder
 
 **Jörg Lehmann** (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
 
-**Hans-Jörg Lieder** (Europeana Newspapers, DDB Zeitungsportal, Digitalisierungsprojeke; Staatsbibliothek zu Berlin)    
-
 **Harald Lordick** (Salomon Ludwig Steinheim Institut für Deutsch-Jüdische Geschichte, Essen)  
 
 **Anne Lorenz** (Editionsprojekt DER STURM, Akademie der Wissenschaften und der Literatur, Mainz)    
