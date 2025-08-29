@@ -98,7 +98,7 @@ Computerzeitschriften der 1980er Jahre enthielten neben vielen typischen Spiele-
 
 ## Freitag, 05.09.2025
 
-**09:00–12:30 – OCR4all**<br>
+**09:00–12:30 – LAREX**<br>
 *Florian Langhanki*
 
 <p style="text-align: justify;">
