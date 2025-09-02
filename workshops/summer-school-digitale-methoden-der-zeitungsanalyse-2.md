@@ -25,7 +25,7 @@ Jupyter Notebooks bieten Geisteswissenschaftler*innen neue Möglichkeiten für d
 
 ## Mittwoch, 03.09.2025
 
-**19:00 – Gemeinsames Abendessen (Selbstzahlerbasis)**
+**~19:00~ 19:30 – Gemeinsames Abendessen (Selbstzahlerbasis)**
 
 ## Donnerstag, 04.09.2025
 
@@ -61,7 +61,7 @@ Mit „digiPress“ verfügt die Bayerische Staatsbibliothek (BSB) über ein eig
 In dieser Einheit lernen die Teilnehmenden, automatisiert auf digitale Bildersammlungen mit IIIF-Schnittstellen zuzugreifen und mithilfe von Image Embeddings explorative Untersuchungen auf den Bildern durchzuführen. Als Beispiel verwenden wir natürlich Illustrationen und Photographien aus Zeitungen und Zeitschriften. Dabei gliedert sich die Einheit in zwei Teile: Die erste Hälfte beginnt mit einer Einführung in den Aufbau von IIIF-Schnittstellen. Es wird vermittelt, wie mithilfe der Programmiersprache Python automatisiert eine Linkliste zum Herunterladen der Bilder erstellt werden kann. Hierfür stehen vorbereitete Jupyter-Notebooks zur Verfügung, mit denen die Bilder auf die eigene Festplatte heruntergeladen werden können. Im zweiten Teil widmen wir uns der Frage, wie wir diese Bilder mit neuronalen Netzen untersuchen können. Es wird gezeigt, wie vortrainierte Netze zur Erfüllung verschiedener Aufgaben mit wenigen Zeilen Code in das eigene Projekt eingebunden werden können. Mit diesen Netzen können wir in der zuvor erstellten Bildersammlung zum Beispiel Bildinhalte erkennen, oder die Haltung von Menschen untersuchen. Den Abschluss bildet eine Diskussion darüber, welche Möglichkeiten sich durch die Nutzung dieses Ansatzes ergeben und wie diese oder ähnliche Technologien auch in den Projekten der Teilnehmenden eingesetzt werden können. Vorkenntnisse im Programmieren sind für diesen Teil des Workshops nützlich, aber nicht unbedingt notwendig. Die Teilnehmenden sollten ein Tool wie Visual Studio Code installieren, mit dem Jupyter Notebooks bequem ausgeführt werden können. Alternativ kann dafür auch Google Colab genutzt werden, dann wird hier ein Account benötigt.</p>
 
 <p style="text-align: justify;">
-<strong>Johanna Störiko</strong> ist studierte Informatikerin mit Schwerpunkt Digital Humanities. Im Rahmen ihres Dissertationsprojekts zur digitalen Edition von Werbeanzeigen der Jahrhundertwende beschäftigt sie sich mit Modellen der Computer Vison, Vektordatenbanken und der Entwicklung von nützlichen Tools für die historische Arbeit mit digitalisierten Bildern. Seit 2025 arbeitet Johanna Störiko im Projekt Germania Sacra der Niedersächsischen Akademie der Wissenschaften zu Göttingen und widmet sich dort ihrem zweiten Interessensschwerpunkt - dem Semantic Web.</p>
+<strong>Johanna Störiko</strong> ist studierte Informatikerin mit Schwerpunkt Digital Humanities. Im Rahmen ihres Dissertationsprojekts zur digitalen Edition von Werbeanzeigen der Jahrhundertwende beschäftigt sie sich mit Modellen der Computer Vision, Vektordatenbanken und der Entwicklung von nützlichen Tools für die historische Arbeit mit digitalisierten Bildern. Seit 2025 arbeitet Johanna Störiko im Projekt Germania Sacra der Niedersächsischen Akademie der Wissenschaften zu Göttingen und widmet sich dort ihrem zweiten Interessensschwerpunkt - dem Semantic Web.</p>
 
 *17:30–18:00 – Pause*
 
