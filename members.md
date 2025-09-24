@@ -33,6 +33,8 @@ description: Mitglieder
 
 **Teresa Herzgsell** (Revistas Culturales 2.0, Eberhard Karls Universität Tübingen)    
 
+**Katja Jana** (Staatsbibliothek zu Berlin – Preußischer Kulturbesitz)
+
 **Dario Kampkaspar** (Leitung Zentrum für digitale Editionen, Universitäts- und Landesbibliothek Darmstadt; vormals Wienerisches Diarium, Austrian Academy of Sciences, Wien)    
 
 **Jana Keck** (Head of Digital History, German Historical Institute Washington DC)    
