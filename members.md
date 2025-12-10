@@ -7,7 +7,7 @@ description: Mitglieder
 
 **Matthias Arnold** (Heidelberg Research Architecture, Heidelberg Center für Transcultural Studies, Universität Heidelberg)   
 
-**Estelle Bunout** (Convenor, impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH))
+**Estelle Bunout** (impresso - media monitoring the past, Luxembourg Centre for Contemporary and Digital History (C²DH))
 
 **Eric Decker** (Departement Geschichte, Universität Basel)   
 
@@ -37,7 +37,7 @@ description: Mitglieder
 
 **Dario Kampkaspar** (Leitung Zentrum für digitale Editionen, Universitäts- und Landesbibliothek Darmstadt; vormals Wienerisches Diarium, Austrian Academy of Sciences, Wien)    
 
-**Jana Keck** (Head of Digital History, German Historical Institute Washington DC)    
+**Jana Keck** (Convenor, Head of Digital History, German Historical Institute Washington DC)    
 
 **Barbara Korte** (Englisches Seminar, Albert-Ludwigs-Universität Freiburg)  
 
@@ -65,7 +65,7 @@ description: Mitglieder
 
 **Madleen Podewski** (DFG-Projekt: Literatur im Zeitalter der Illustrierten: Stationen komplexer Text-Bild-Beziehungen im 19. Jahrhundert, Freie Universität Berlin)
 
-**Nina C. Rastinger** (Co-Convenor, Austrian Centre for Digital Humanities and Cultural Heritage, Österreichische Akademie der Wissenschaften)
+**Nina C. Rastinger** (Convenor, Austrian Centre for Digital Humanities and Cultural Heritage, Österreichische Akademie der Wissenschaften)
 
 **Anna Reimann** (Departement Geschichte, Universität Basel)   
 
