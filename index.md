@@ -15,14 +15,13 @@ Von der Bilddigitalisierung über Text-, Bild- und Layouterkennung und Metadaten
 **Nina C. Rastinger**  
 Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)  
 Österreichische Akademie der Wissenschaften (ÖAW)   
-Bäckerstraße 13     
-1010 Wien   
+Bäckerstraße 13, 1010 Wien   
 E-Mail: ninaclaudia.rastinger@oeaw.ac.at
 
-**Jana Dunz-Keck**    
-German Historical Institute Washington
-1607 New Hampshire Avenue NW
-Washington, DC 20009
+**Jana Dunz-Keck**  
+German Historical Institute Washington  
+1607 New Hampshire Avenue NW  
+Washington, DC 20009  
 E-Mail: keck@ghi-dc.org
 
 **Mailingliste hier abonnieren**: [https://lists.digitalhumanities.org/mailman/lists/dhd-ag-zz.lists.digitalhumanities.org/](https://lists.digitalhumanities.org/mailman/lists/dhd-ag-zz.lists.digitalhumanities.org/)
